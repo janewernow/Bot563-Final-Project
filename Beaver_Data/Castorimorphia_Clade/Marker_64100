@@ -1,0 +1,78 @@
+>PB1D10
+-------------------------------------------------------------------------------A
+GCCGGGCGTGGTGGCGCACGCCTGTAATCCCAGCACTCGGGAGGCTGAGGCAGGAGGATCGTGAGTTCAAGGCCAGCCTG
+GGCTACATAGCAAGACCCTGTCTCAAAAAAACAAAA--------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------------
+>Mus musculus
+AAA-------CCGTCCCTG-----ACATCACTGGGT------------TTTAGC-ATAGTTTTTGGACGAGCTGCCCCTT
+G-------------------------------------------------------------------------------
+-----------------------------------------------------------------GTGATCTTTATAGCA
+TAGTTAAGGAAAAATGGGGTTGAGACC-----------------TACGAGGGAGGCTAGGAGATAGACGC----------
+GAGTACCAACCAGACTGACTGACATTCCACCTC-----AG-GAAC
+>Rattus norvegicus
+AAA-------TTGCCCCTG-----ACATCACTGGGT-------------TTTGTCATGGTTTTTGGAAGAACTGCCCCTT
+G-------------------------------------------------------------------------------
+-----------------------------------------------------------------GTGATCTTTATAACT
+TAGTTAAGGAACAATG-AGGTGAGACC-----------------TGAGAGGGAGACTAGGAGATAGACTC----------
+GAGCCCCAACCAGA----CTTTCATTCTGCTTC-----AG-GAGC
+>Apodemus sylvaticus
+-------------------------------TGGAT-------------TTTATCATGGTTTTTGGAAGAGCTGCCCCTC
+G-------------------------------------------------------------------------------
+-----------------------------------------------------------------GTGATTTTTATAGCT
+TAGTTAAGGGAAAATGGGGTTGAGAAC-----------------TGAGAGGGAGACTAGGAAGTAGACTG----------
+GACTACCAACCAGACTGACTTCCATCCCACCTC-----AG-GAGC
+>Peromyscus maniculatus
+AAGAAA----CCCTCCCTG-----ACCTCACTGGGT--------------TTGTTGTGGTTT--GGAAGAGCTGCCCCTT
+G-------------------------------------------------------------------------------
+-----------------------------------------------------------------GTAATCCTTGCAGCT
+TAGTTAGGG---------------ACC-----------------CGAGAGGGAGACTGGGAGATGGGCTCACAGCATGGA
+GGGTACCAACGAGAATGCCCTTCATT-CCTCTC-----AG-GAGC
+>Microtus agrestis
+AAAAAAA---ACCTTCCTG-----ACCTCACTGGGT--------------TTGTTGTGGTTTT-GGAAGAGCTGCCCCTA
+G-------------------------------------------------------------------------------
+-----------------------------------------------------------------GTAATCTTTGCGGCT
+TAGTTAGGGAACAAGCGGGATGAGACC-----------------CAAGAGGGAGACTGGGAGGTGGGCTCACAGCACAGA
+GGGTACCAATGAGAACGACCTTCATCCCGCCTC-----AG-GAGC
+>Nannospalax galili
+AAACTGAAGAAAC--CCTG-----ACATTGCTGGGTTGCACTGTAAAGTTTCCCAGTGATTTT-AGAAGAGCTGCCCTTT
+G-------------------------------------------------------------------------------
+-----------------------------------------------------------------GTAATCTCCATAGCT
+TAATTAGGAAATAATCTAGATGGGACCTGTTGGGCTTTTGAAACCAGGAGGAGGACTGGGAAACTGGATCACAGCATGGA
+AGGTACCAACCAGACCCACCTGTGTCCCACCTT-----AG-GAGC
+>Jaculus jaculus
+AAAAA----TCTCTTCCTT-----ACATGGCT-----ACATTATGAAATTTCCCAGTGGTTTT-AGAAGAGCTAT-CCTT
+G-------------------------------------------------------------------------------
+-----------------------------------------------------------------GTCATCTCTGCAGCT
+TAAATAGGG-ATAATCTGGATGGGACCAATTGGGCTTT-GAAAATGAGAGGGAGACTGGGAGTCTGGGTCACAG-AT---
+-----CCTGCCAGAAAGACTTGCATCCTGCCTC-----AG-GAGC
+>Anomalurus sp.
+------------------------------------------------------------------------TGTTCCTT
+G-------------------------------------------------------------------------------
+-----------------------------------------------------------------GTAATCTGTGTAGCT
+TAATTAGGGGACAATCTGGATGGAATCTGTAGGTCTTT-AAAAAGGTGAGGGAGACTGGGAGACCTGGTCACAGTGTGAA
+AGGTACCAATCAGACAGAACTTCATGCCACCTC-----AG-GAGC
+>Castor fiber
+AAAAAA--GT-ACTTCCTG-----ACATTGCTGAGTTGTGTTGTGAAATTTCCTGATGGTATT-AGAAGAGCTGTTCCTC
+ACTGGGTATGCTGGCACATGCCTGTAATGCCAACACTCAGGAGGCAGAGGCAGTAGGGTCATGAGTTTCAGGCCAGCCTG
+CGCTACATATTGAGACCC-ATCTCAAAAAAAACCCAAAAACAAATTAGAAAAGAGCTGTTCCTGGGTAATCTTTGCAGTT
+TAATTAGGAAATAATCTGGGTGGGACCTGTTGGGCTAT-GAACATGTGAAGGAGACTGGGAGACCAGTTCCTAGCTTGTA
+GGTTATCAGCCAG-CAGACCTACGTCTCTCCTT-----AG-GAGC
+>Dipodomys ordii
+AAAAAAAAATCACTTCCTG-----ACATTGCTGGGT-GCATTGTGACATTTCCCGGTGGTTTT-GGAAGAGCTGTTGCTT
+GCTATGGGTGGTGGCACTTGCTAGTCATCCTAGAATTTAGGA-GCA------------CCATGAGTTCCA-TCCA-----
+-----------GAGACCCTG-CTGACACAAAAGCCAAAACCA-----GAA--GAGTTGTTCCT-----------------
+------AGGGATA-TCTGGTTGGGACCTGTTGGGCTTT-AAAAATACAAAGTAGATTAAGAGGCCCGGTACTCGGGTGGA
+GGATACTAACCAGATAGGCCTCCATCTTACCGT-----AG-GAGC
+>Cavia porcellus
+AAAA------CAGTTCCTG-----ATACTGCTGGGTTGGATTGTGAGATTATCCTGTGGTTTC-AGAAGACCTGGCCCTC
+G-------------------------------------------------------------------------------
+-----------------------------------------------------------------GTGATATTGGCAGCT
+TCATTAAGGGATAATGTAGATAGGACCTTTGGGGCTTT-AAAAATGTGAGGGAGACCCGGGGCCTGGATCACAGCAGGGC
+GGGCAGCAGCCAGACAGCCCTGCATTCTTCCCC-----AG-GAGC
+>Ictidomys tridecemlineatus
+AAAAACAA-TAA-TTCCTGGGTTTATTTTGCTGGATTGCATTGTGAGGGTTCCTGGTGGTTTT-AGGAGAGCTATCACTT
+G-------------------------------------------------------------------------------
+-----------------------------------------------------------------GTAATCTTGGCAGTT
+TAATTAAGGGATAATAT-----GCACCTGTTGACCTTC-AAAAGTGAGAGGGAGCCTGGGAGAAC-AGTCGCAGTATAGA
+GAGTACCAACCAAACAGACCTATCTCTCGTCTC-----AG-GAAC
