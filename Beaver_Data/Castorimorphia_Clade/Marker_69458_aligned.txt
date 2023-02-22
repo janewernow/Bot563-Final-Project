@@ -1,0 +1,338 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.490)
+
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          aactccatgtcct------gaaatgtcttgggaatccccagaggtccttctaccacactt
+Dipodomys       aactgtaggtcct------gaaaggtcttggaaaaccttagaggtcctttgactaccctt
+Pedetes         agctccacgtcct-----aaaaaggccttgggaatccccagagatccttgcactacactt
+Ictidomys       aactcctggtccg----gaaaagggtcttggaaatccccagagatcctggcaccacactt
+Cavia           aagtccgggtgct------gaaagggcctgaagcctcccaggggtcctcacgccagctt-
+Mus             aactccagggcct-----ggaaaggtcctagaaatccccagaggtctttgcatcatactt
+Apodemus        aactcctggccct-----ggaaaggtcctggaaatccccagaggtctttgcctcacactt
+Peromyscus      aactccgggtcct-----gaaagggtcctggaattccccagaggcccttgcgtcacactt
+Microtus        aactccaggtcct-----caaaggatcct-gaaatccccagaggtccttgtgtcacactt
+Rattus          aactcc-----------tgaaaaggtcctggaaatccccagaggcctctacatcccactt
+Nannospalax     aactccagattctgaaaggaaagggtcctagaaatcccctgagctccttgcatctcactt
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          --aagagctactgacgc-------------------------------------------
+Dipodomys       --aagagctattgactt-------------------------------------------
+Pedetes         -aaagaactactgactt-------------------------------------------
+Ictidomys       --aagaactattgactg-------------------------------------------
+Cavia           --gaggtcgggtcacct-------------------------------------------
+Mus             aagagaactactgac---------------------------------------------
+Apodemus        aagagaactactgac---------------------------------------------
+Peromyscus      aagagaattactgacac-------------------------------------------
+Microtus        -agagaactacgaacac-------------------------------------------
+Rattus          aagagaactacggggttggggatttagctcagtggtagagcgcttgcctaggaagtgcaa
+Nannospalax     aagagaactgctgattc-------------------------------------------
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          ----------------------------------------------------------ac
+Dipodomys       ---------------------------------------------------------aca
+Pedetes         ---------------------------------------------------------aga
+Ictidomys       ---------------------------------------------------------aac
+Cavia           ---------------------------------------------------------gtg
+Mus             ----------------------------------------------------------cg
+Apodemus        ----------------------------------------------------------ag
+Peromyscus      ----------------------------------------------------------ag
+Microtus        ----------------------------------------------------------gg
+Rattus          ggccctgggttcggtccccagctccgaaaaaaagaaaaaaaaaaaaaaaaagaaaaaaag
+Nannospalax     ---------------------------------------------------------aga
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          aaactttcccccataactaaggcagggagaaactg----acattgctgttcctagtacct
+Dipodomys       attcctttccccatagcagacctggacagaagctataacttatccctatccctggtacct
+Pedetes         aaactttttcccatagctgagctggggacaagctgtgtcttatctctgtccttagtacct
+Ictidomys       agaactttccccacagatgaactgggagaaa----cggttcatctctgaccctagtacct
+Cavia           atacttc--------gctcagagagagaggc--tatagctaatcactgtccctagtagtt
+Mus             aaaacactttccatagctcagcaggaaaaa---tggagcttacctctctcccaagcctaa
+Apodemus        aaaacact----gtagctcagcaggaaaaa---tgtagcttgcctctctcccaagcctag
+Peromyscus      aaaacacgctccatagctgagcaggagaaa---cgcagcttgcctctgttcgtgcctcat
+Microtus        agagcattttccgtggcagagcaggagagg---tgtagcttgcctctgtcccaag-----
+Rattus          agaactactgacagatctcagcaggagaaa---catagctttcctctctcccaagcctga
+Nannospalax     aaacattttcccatagctgaaccaggagaaa--cgtcacttatctctgtcccaagtgtgt
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          cacacattacttggcacat---gatagacaccttgtaaatgtttcaa-tcagtgcaaaaa
+Dipodomys       cac-cattgcttggcatat---tataggtaccttgtaaatgtttgagttgaatgcatcaa
+Pedetes         cacacattgcttgctatgt---gatgggtgctctgtaaatgtttgaa-tgagtacatcaa
+Ictidomys       cacacattgctgggcacat---gataggcactcagtaaatgtctgaa-taggtgagtcaa
+Cavia           cacacagtggttg---------gccagtacatcagtaaatgtttgaa-tgagtaagtcaa
+Mus             catacaccgcttcagctat---gatatgctctgg---------cggt-tgaatgagttaa
+Apodemus        cgtacaccacctcagatct---ggtgggccttgg---------cagt-tgaatgagttag
+Peromyscus      ctaacaccgcttcgcatat---gatgggccgtgg---------tgga-tgaatgagtcaa
+Microtus        -------tgcctcacatgg---ggtgggccttgg---------tgct-tgaatgagtcaa
+Rattus          catacacca-ttcatctat---gataggccttgg---------cggt-tgaatgagttaa
+Nannospalax     cacacactgttctatgtattaataagggcctctg---------tgtt-tgaatgagcatg
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          caaacaaaattattttattggaaactacataagtaattctgt------------------
+Dipodomys       caact--agttattttattagaaactatgtaagtaattaagagtgtctaatcctagttac
+Pedetes         caaaccaaagtattttattggaagctatcttactagtaacttc-atgagtagttagttac
+Ictidomys       tgtacaaagttattttattgg-agctacataagtggttacgtg-----------------
+Cavia           caaacaaagttattttattgggagctacaaatatg-------------------------
+Mus             caagcacagctactttattggtagctgtgaatgtatttat--------------------
+Apodemus        caagcacagttattttattggcagccgtgaatgtatttac--------------------
+Peromyscus      caaaca---gtttttaattggcagctgtgaaaatgctttt--------------------
+Microtus        ccaacacagttaccccattggcagctacgaaagttcttag--------------------
+Rattus          caagcacaatta-tttatgggcaactgtgactgtgtctat--------------------
+Nannospalax     tcaacaaatttattttattggcaactataaa-------gt--------------------
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          ---gtgaagaggga----------------------------------------------
+Dipodomys       tgaggaggatgagatctgaggatgatagtttgaagccaacatgggcaggaaagtactgag
+Pedetes         acagtaagaagaga----------------------------------------------
+Ictidomys       ---gtaagaaaaga----------------------------------------------
+Cavia           ---gtaagaaaaga----------------------------------------------
+Mus             ---gttataggagg----------------------------------------------
+Apodemus        ---gttataagag-----------------------------------------------
+Peromyscus      ---gttagaagagg----------------------------------------------
+Microtus        ---attataggagg----------------------------------------------
+Rattus          ---gttctaagagg----------------------------------------------
+Nannospalax     ---attataagaga----------------------------------------------
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ---------------tttt-----------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          ---ttattttcattctgta-----------------------------------------
+Dipodomys       actttttttttttttggtaatggggcttgaactcagggcctgatctctttttctcaaggc
+Pedetes         ---ttatattcatttagca-----------------------------------------
+Ictidomys       --tttttttccttttggca-----------------------------------------
+Cavia           ---ttgctttcatttggca-----------------------------------------
+Mus             ---ctgatttcatttggta-----------------------------------------
+Apodemus        ----ctgattcatttggta-----------------------------------------
+Peromyscus      ---ttgatttcattcagca-----------------------------------------
+Microtus        ---ttgattttattcagca-----------------------------------------
+Rattus          ---ctgattttatttgtta-----------------------------------------
+Nannospalax     ---ccgattttattcagcc-----------------------------------------
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          ------------------------------------------------------------
+Dipodomys       tagtactctactacttggagccacagcctcacttctgggggtttttttgctggtgttttt
+Pedetes         ------------------------------------------------------------
+Ictidomys       ------------------------------------------------------------
+Cavia           ------------------------------------------------------------
+Mus             ------------------------------------------------------------
+Apodemus        ------------------------------------------------------------
+Peromyscus      ------------------------------------------------------------
+Microtus        ------------------------------------------------------------
+Rattus          ------------------------------------------------------------
+Nannospalax     ------------------------------------------------------------
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          ------------------------------------------------------------
+Dipodomys       ttttttttctttttgggtggttagttagatgagagtcctgtggactttttttgccccagc
+Pedetes         ------------------------------------------------------------
+Ictidomys       ------------------------------------------------------------
+Cavia           ------------------------------------------------------------
+Mus             ------------------------------------------------------------
+Apodemus        ------------------------------------------------------------
+Peromyscus      ------------------------------------------------------------
+Microtus        ------------------------------------------------------------
+Rattus          ------------------------------------------------------------
+Nannospalax     ------------------------------------------------------------
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          ------------------------------------------------------------
+Dipodomys       tggcttcaaatggtaatcctcaaatcttagcctcctgagtaactaggattataggcgtga
+Pedetes         ------------------------------------------------------------
+Ictidomys       ------------------------------------------------------------
+Cavia           ------------------------------------------------------------
+Mus             ------------------------------------------------------------
+Apodemus        ------------------------------------------------------------
+Peromyscus      ------------------------------------------------------------
+Microtus        ------------------------------------------------------------
+Rattus          ------------------------------------------------------------
+Nannospalax     ------------------------------------------------------------
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          ------------------------------------------------------------
+Dipodomys       gccactggcacctggccagtattaggattctttatctctaattaaccaccaaaaaaaacc
+Pedetes         ------------------------------------------------------------
+Ictidomys       ------------------------------------------------------------
+Cavia           ------------------------------------------------------------
+Mus             ------------------------------------------------------------
+Apodemus        ------------------------------------------------------------
+Peromyscus      ------------------------------------------------------------
+Microtus        ------------------------------------------------------------
+Rattus          ------------------------------------------------------------
+Nannospalax     ------------------------------------------------------------
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          ------------------------------------------------------------
+Dipodomys       aaaaaacaaaaactggaagtggagatgtggctcaggtgctagtcttgatcaaaaatgttc
+Pedetes         ------------------------------------------------------------
+Ictidomys       ------------------------------------------------------------
+Cavia           ------------------------------------------------------------
+Mus             ------------------------------------------------------------
+Apodemus        ------------------------------------------------------------
+Peromyscus      ------------------------------------------------------------
+Microtus        ------------------------------------------------------------
+Rattus          ------------------------------------------------------------
+Nannospalax     ------------------------------------------------------------
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          ------------------------------------------------------------
+Dipodomys       caagacagggcccagggccctaagttcaagccccaggaccagcacacaaaaaagaaaaaa
+Pedetes         ------------------------------------------------------------
+Ictidomys       ------------------------------------------------------------
+Cavia           ------------------------------------------------------------
+Mus             ------------------------------------------------------------
+Apodemus        ------------------------------------------------------------
+Peromyscus      ------------------------------------------------------------
+Microtus        ------------------------------------------------------------
+Rattus          ------------------------------------------------------------
+Nannospalax     ------------------------------------------------------------
+                                                                            
+
+ID4             --------------------------tttttttgcggtgctggggattgaacccagggcc
+STRID1          -------------------tttttttttttttggtggtgctggggattgaacccagggcc
+twinID-Spe      --------------------------tttttatgtggtgctgagga-tgaacccagggcc
+Castor          -------------------cctatctttttttcctggtactggggattgaacccagtgcc
+Dipodomys       aataaacaaaagaagggataccttctttcctccaagcttctagggattgaatccaggatc
+Pedetes         -------------------cacatctttat------------------------------
+Ictidomys       -------------------cctattttta-------------------------------
+Cavia           -------------------cttgtctttt-------------------------------
+Mus             -------------------cctaccttag-------------------------------
+Apodemus        -------------------cctacctttg-------------------------------
+Peromyscus      -------------------cctacctttg-------------------------------
+Microtus        -------------------cccacctttg-------------------------------
+Rattus          -------------------tctacctttg-------------------------------
+Nannospalax     -------------------cctgtcttta-------------------------------
+                                          *                                 
+
+ID4             tcgcgcatgctaggcangcactctacc-actgagctacatccccagc-------------
+STRID1          ttgtgcatgcgaggcaagcactctaccaactgagctatatccccagc-------------
+twinID-Spe      tcacacatgctaggcaagcactctaccacttgag--------------------------
+Castor          tcacacatgctaggcaagcactctaacacttgaggtgtgcaccagtc-------------
+Dipodomys       ttgcacatgctaggcaagtgctctaccacttgaggcatacctctacccgtcagtcacctg
+Pedetes         ------------------------------------------------------------
+Ictidomys       ------------------------------------------------------------
+Cavia           ------------------------------------------------------------
+Mus             ------------------------------------------------------------
+Apodemus        ------------------------------------------------------------
+Peromyscus      ------------------------------------------------------------
+Microtus        ------------------------------------------------------------
+Rattus          ------------------------------------------------------------
+Nannospalax     ------------------------------------------------------------
+                                                                            
+
+ID4             ------ccc---------------------------------------------------
+STRID1          ------cc----------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          ------tttggca----cctagtagagaaaattagtaagttatccttaccttagctggtt
+Dipodomys       tctttattgggcact-------tagagaaaattagtaagttatcctttcctttgctggtt
+Pedetes         ------ttgggca----cttagtggagaaaactagtaagttacccttaccttagctggtt
+Ictidomys       ------ttggttg----ccaaatagagaaaattaggaagttgtcct---cttagctagtt
+Cavia           ------ttggata----tctcctagagaaaattagtaaattgtacttacactcactagtt
+Mus             ------tgaggcatctgtctggtgagggaaattagttacctttacct--gttagtcaact
+Apodemus        ------tgaggcatctccctggtgaggaaaagtagttacctttaccttccttagtcagct
+Peromyscus      ------ttgggcatttttctagtaaagaaaattagttacctttac----cttagtcaact
+Microtus        ------ttgggcatctgtctggtaaagaaaatctgtcacctttgc----cttagtcaact
+Rattus          ------tggggtatctgtctggtgaagggaattagttacctttaccttccttaatcaact
+Nannospalax     ------ttgggca----tccagtaaagaaaaatagtt---tttac----cttagccaatt
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          ggtagttgaagatagataataacagcatgagtaattaagcaaaa------------aaaa
+Dipodomys       gatagtggaaggta---aatagtgggctgagcaagcaagtaag-------------caaa
+Pedetes         aatagttgaagatagataataacatccagagcaatcaagcaag-----caaaaatccaga
+Ictidomys       gatagttttga------gataacagcctaagcaagcaagcaaaaaaacaaaagacaaaaa
+Cavia           gatagtttgagatgaatcat-atagcctgagcaagtaagcaaaa-----aaatgtaaaaa
+Mus             catagt------cgggta-taacagccagag--------tgaaaccctcagaagccagaa
+Apodemus        catagt------tggatactaacaggcaga----------gaaaccttcaaaagacagaa
+Peromyscus      cgtagt------tagttaataacacctgag----------aaaaccttcaaaagatggaa
+Microtus        cttag------------aatagcagcctgag--------gaaaaccctcacaggacagag
+Rattus          gatagt------tggataataacatccagag--------tgaaaccctcaaaagacaag-
+Nannospalax     cata----aagatagataatagccacctgagcaaaaatcccaaaaccttgaaagacagaa
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          gtaccttctcccagtctctga---------tcatcacacatttctgaggcacta-gagcc
+Dipodomys       aaaccttctcccagtgtctga---------tcatcaaatatttctgaggcatgg-gaccc
+Pedetes         gaaccaactcccagtgtctga---------tcgtcac-----------------------
+Ictidomys       gaacctcctcccagtgtgtga---------gcatcaaacattattgaggcgctg-gagcc
+Cavia           gagccttctcctctatttagacagagggtctgattaaacatatctgagacattg-aggcc
+Mus             g---ccgttctcagtgtgtg----------tcatcacagcagtatga-------------
+Apodemus        gacattattctcagtgtgtgg---------tcatcacagaagtgtgaggtgcag------
+Peromyscus      g---ccattctcagtgtgtgc---------acatccgaggagtttgaggtgcag------
+Microtus        ----ccgttcccagtgtgtgg---------tca-ctgatgagcgtgaggtgcag------
+Rattus          ----ccattcttagtatgtga---------tcgtctcaggagtatgagatacag------
+Nannospalax     c---ctactgtaattgtctga---------tcatgaaacatttttgagtctctgtaggcc
+                                                                            
+
+ID4             ------------------------------------------------------------
+STRID1          ------------------------------------------------------------
+twinID-Spe      ------------------------------------------------------------
+Castor          aagtccaggcaggtgaattgggaggatgagtgggttta-gactgagtataggtacagtat
+Dipodomys       aagtccagacagatgaattggaagaatgaataggtcta-gacagggtaca-gttcagtgt
+Pedetes         ------------------------------------------------------------
+Ictidomys       gagtttaagcgggtg-attgggagtgtgcgtaggtctgcgacagagtacaggtgcagtgt
+Cavia           aagtctagaagggtgggttagaagggt-aatatgtcta-caaagggtgtaggtgcagcat
+Mus             -----------------------gggtgaggaggtcta-ggcaagcagtctgtgcagtgt
+Apodemus        ------------------ctgtggggtgaggcggtctt-ggcacg-aggtggtgcagcgt
+Peromyscus      ----------------gccagtggagcaagtgggtcta-ggcaggaggtaggtgcagtgt
+Microtus        ----------------gtc------------tggtcta-ggtgggaggtaggtgcagtgt
+Rattus          ----------------ccctgtagggtgaggaggtctt-gg--agaggtaggtgcagcgc
+Nannospalax     aagtccatgcaggtgaattagaagggttaatcagtcta-gacaggatagaggtgcagtgt
+                                                                            
+
+ID4             ---------------------
+STRID1          ---------------------
+twinID-Spe      ---------------------
+Castor          ct---tcccttcctgcagggt
+Dipodomys       ct---ttcctccctgcagaga
+Pedetes         ---------------tggaac
+Ictidomys       ct---ttccctcctgcaggga
+Cavia           ct---tccttcctcacaggga
+Mus             ct---tcccttcctgcaggga
+Apodemus        ct---tcccgccccgcaggga
+Peromyscus      ct---tcccttcctgcaggga
+Microtus        ct---t-cctttctgcaggga
+Rattus          ctccatcccttcctgcaggga
+Nannospalax     cc---tcccttcctgcaggga
+                                     

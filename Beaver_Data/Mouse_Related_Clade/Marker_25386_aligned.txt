@@ -1,0 +1,287 @@
+CLUSTAL format alignment by MAFFT L-INS-i (v7.490)
+
+
+B1F             ------------------------------------------------------------
+B1F1            ------------------------------------------------------------
+Jaculus         ------------gtagtgactataatggg---------gattctaagcatt--tgttatc
+Mus             ----------------ttagtct---ggggggaaagctaggactaa--------------
+Rattus          ----------------ctagtct---gagggaaaggctaggactaagca----tgttacc
+Apodemus        acgaagtgacaggtttctagtct---gagggaaaggcta-gactaagcatt-------cc
+Cricetulus      aggaaatgactattttctagcctgatgagggagaacctagaactaagcatt--tgtta-c
+Mesocricetus    acacaatgactagtttctagtctgatgagggagaacctagtactaa--------------
+Peromyscus      ------------gttcctagtctgatgagagacaacctaggactaagcatt--tgtca-c
+Microtus        aggaaatgactagtttctagtctggtgagggagaacctaggactaagcatt--tgttacc
+Nannospalax     --------------tttgagtct-------gagagactaggagtaagcatt--tgttatt
+Castor          agggagc-agcgttcagcagttg-------ggaaagttaggaacacaagc---tcccatc
+Dipodomys       aggaaat-aattactttcggtcttatgagtg-------aggactaggcatttttgttgcc
+Cavia           aggaaattaacagttttaaatctaataaa---------gggcctagacatttctgctacc
+Heterocephalus  agggaattaatagttttaaatctaataaa---------gggcctggacatctctgctatc
+Ictidomys       aggaaatgaatagtttt--atataatga----------gggactaggcatt--tgttacc
+Marmota         aggaaatgaatagtttt--atataatga----------gggactaggcatt--tgttacc
+                                                                            
+
+B1F             ------------------------------------------------------------
+B1F1            ------------------------------------------------------------
+Jaculus         catgcagggttccaaaaccctgcataaagcagacccc-----------------------
+Mus             ---gcagagtgccaggaccccacctagtaggcacacactcacac----------------
+Rattus          tctgcaggatgctaggaccccacatagtacgggcacacatatac----------------
+Apodemus        cctgcagaattccaggaccccacctaatagacgcacacacgcacgcg-tgcacatgtaca
+Cricetulus      cctgcaggatgccaggaccccacctaggcagactcctccccccc----------------
+Mesocricetus    ------------------------------------------------------------
+Peromyscus      cctgcgggatgccaggcccccacctagacaggtccctgcccacc----------------
+Microtus        cctgcaggatgccaggaccccacctaggcggacacatgcacactacactacactttttca
+Nannospalax     ccagcagggtgccaggaccctgcctatggaacccctaccctcac----------------
+Castor          cctgcagggtgacaggaccctacctaaggcagacatc-----------------------
+Dipodomys       tccacagcttgccagcaccctgcttaaagcagacccc-----------------------
+Cavia           cct-cagagtgcaagggccctggagaagccagagcct-----------------------
+Heterocephalus  cctgcagagtgccagggccctgtgtaagccagaccct-----------------------
+Ictidomys       cctgcagggtgccagaatcctgcataaggtagacccc-----------------------
+Marmota         cctgcagggtgccagaatcctgcataaggtagacccc-----------------------
+                                                                            
+
+B1F             ------------------------------------------------------------
+B1F1            ------------------------------------------------------------
+Jaculus         -----------------------g------------------------------------
+Mus             ------------------------------------------------------------
+Rattus          ----------------------------------------------------------at
+Apodemus        cacacacacacac-------------------------acaaacacacacacnnnnnnnn
+Cricetulus      ----------------------------------------------------ccccacac
+Mesocricetus    --------------------------------------------------------aaac
+Peromyscus      --------------------------------------------------cacccagccc
+Microtus        aggccctaggacccatcctttttgttgttgttgttattgnnnnnnnnnctgggattaaag
+Nannospalax     ----------------------------------------------------------ct
+Castor          ------------------------------------------------------------
+Dipodomys       ------------------------------------------------------------
+Cavia           ------------------------------------------------------------
+Heterocephalus  ------------------------------------------------------------
+Ictidomys       ------------------------------------------------------------
+Marmota         ------------------------------------------------------------
+                                                                            
+
+B1F             ------------------------------------------------------------
+B1F1            ------------------------------------------------------------
+Jaculus         ------ctggcccttctcagtgcctttaagggt--ctgttaatgcactttgta----ctc
+Mus             actcactccacccttttcagta-tcctaggacccatctttaaagcactttgta-tgtcta
+Rattus          acttgctccacccttttccata-tcgtaggacccatctttaaagcactttgta-tgtcta
+Apodemus        nntcattccatcctttacaaaa-tcctaggacccatctttaaagcactttgta-tgtcta
+Cricetulus      acacacactacccctttaaatg-ccctagaacccatctttaaagcactttgta-tgtctg
+Mesocricetus    atttgctctacccctttaaatg-ccctaggacccatctttaaagcactt-----tgtctg
+Peromyscus      ccacactccacccttttcaatg-ccctaggactcatctttaaagcactttgta-tatctg
+Microtus        gtgtgcaccaccaccgcccagc-ttctaggacccatctttaaagcactttgta-tatc-g
+Nannospalax     cactccctagctcttctcaatgcttttaggatctgtctttaaagcactctgtactgtttg
+Castor          ------aagacctttcttgatgcttttgggttctatctttaaagcattttga-----ctg
+Dipodomys       --tcagctaactcttcttgatgcctttgggatctatccttaaagcactgtgta----ctt
+Cavia           ------tcaggccgtcttgatacctttgggatctgtctttgaagcactttgta----ctg
+Heterocephalus  ------tcggcccttcttgatgcctttgggatctgtctttaaagcactttgta----ctg
+Ictidomys       ------tcagcccttcttgatgcttttgggatctgtctttaatgcactttgta----ctg
+Marmota         ------tcagcccttcttgatgcttttgggatctgtctttattgcactttgta----ctg
+                                                                            
+
+B1F             ------------------------------------------------------------
+B1F1            ------------------------------------------------------------
+Jaculus         ttactcagttcaggagatttgtattctgcctggacccacca-tttttctgatcctaacc-
+Mus             tca-----ttcaggggaa-tctattctgccttgacccaaagctttttctgacactgatc-
+Rattus          tca-----ttcaggaaaa-tctattctgccttgacccaaagctttttctgacactgatc-
+Apodemus        tta-----ttcaggagaa-tctattctgccttgacccaaagctttttctgacactgatc-
+Cricetulus      tca-----ttcaggag--------------------------------------------
+Mesocricetus    tca-----ttcaggag--------------------------------------------
+Peromyscus      tca-----ttcgggag---cctattctgccttgacccaaagctttttctgacactaatc-
+Microtus        tca-----ttcaggag---tatattctgccttgacccagagctttttctgacactaaatc
+Nannospalax     cca-----tttaggaga--ctcattctgccttgacccagggctttttctaactctaatc-
+Castor          tta-----ctcagcagatttgtgttctgccccaatatgtgt-cttttctgaccctagcc-
+Dipodomys       tta-----ttcaggagatttgtattgtgtcccaatcca----tctttctcaccttaatc-
+Cavia           ata-----ttcaggaggtttgtcatttaccctgaccgatg--tctttatgatcctaatc-
+Heterocephalus  tta-----ttcaggaagtctgtaatttgccctgaccaatgtctttttctgatcctaatc-
+Ictidomys       tta-----ttcaggagat---tagcctgccctgacccacaccttttcctgaccctaatc-
+Marmota         tta-----ttcaggagat---tagcctgccctgacccacaccttttcctgactctaatc-
+                                                                            
+
+B1F             ------------------------------------------------------------
+B1F1            ------------------------------------------------------------
+Jaculus         ttt-acttttctgtagaatct-----gagttgggaaggagggttaaaggaagtaatagcc
+Mus             ccc-----tcctgcacaat---------cttaagg-------------------------
+Rattus          tcc-----tcttgcagaat---------ctaaagg-------------------------
+Apodemus        ctc-----tcttacaaaat---------ctgaagg-------------------------
+Cricetulus      ------------------------------------------------------------
+Mesocricetus    ------------------------------------------------------------
+Peromyscus      ccc-----tcctgcagaat---------ctgaggg-agggataaagaagcagttag----
+Microtus        ccc-----tcttgcagact---------ctgagggaagagataaagaagcagttaa----
+Nannospalax     ccctcttttcctgcagaat---------ctaaggaaagggataaagaagcaatgat----
+Castor          cct---tttcctgcagaatca-----agctaaggggggaggataagaggaaacaattaa-
+Dipodomys       ccc---tttcctgtagaaatagaaacacttgagggaggggataaagatgaatcaatttt-
+Cavia           tcc-----tctagcagaatta-----gtctgagggaggggataaagaggaagcaataaa-
+Heterocephalus  ccc-----tcctgaagaatca-----atctgaaggaggggataaagaggaagcaat----
+Ictidomys       ccc--ttttcctgcagaatca-----ttctgagggagaggataaagagaaagcaat----
+Marmota         ccc--ttttcctgcagaatca-----ttctgagggagaggataaagagaaagcaat----
+                                                                            
+
+B1F             ------------------------------------------------------------
+B1F1            ------------------------------------------------------------
+Jaculus         aggtgtggtggcacattctgtaatgtcagcagttgggacactgaggcaaaaggatcacaa
+Mus             ------------------------------------------------------------
+Rattus          ------------------------------------------------------------
+Apodemus        ------------------------------------------------------------
+Cricetulus      ------------------------------------------------------------
+Mesocricetus    ------------------------------------------------------------
+Peromyscus      ------------------------------------------------------------
+Microtus        ------------------------------------------------------------
+Nannospalax     ------------------------------------------------------------
+Castor          ------------------------------------------------------------
+Dipodomys       ------------------------------------------------------------
+Cavia           ------------------------------------------------------------
+Heterocephalus  ------------------------------------------------------------
+Ictidomys       ------------------------------------------------------------
+Marmota         ------------------------------------------------------------
+                                                                            
+
+B1F             ----------------------------------------------------gccaggca
+B1F1            ---------------------------------------------------agccgggcg
+Jaculus         gttcaaggccaccctgtgttatgtaatgagttctttaaaaaaatttgttttagcctggtg
+Mus             ------------------------------------------------------------
+Rattus          ------------------------------------------------------------
+Apodemus        ------------------------------------------------------------
+Cricetulus      ------------------------------------------------------------
+Mesocricetus    ------------------------------------------------------------
+Peromyscus      --------------------------------------------------tagccaggtg
+Microtus        --------------------------------------------------tagccaggtg
+Nannospalax     ---------------------------------------------------aaccaggtg
+Castor          --------------------------------------------------tagccaggca
+Dipodomys       --------------------------------------------------tagctggagg
+Cavia           ------------------------------------aaaaa---------tcctcggggc
+Heterocephalus  ------------------------------------------------------------
+Ictidomys       ------------------------------------------------------------
+Marmota         ------------------------------------------------------------
+                                                                            
+
+B1F             t-agtggcacacacctgtaatcccagcacttaggaggctgaggcaggaggatctgctgtg
+B1F1            t-ggtggcacacgcctgtaatcccagcactcgggaggctgaggcaggaggatc-gccgtg
+Jaculus         t-gatggtgcccacctttaatcccagcactcaagaggccaagagaggatagct----ggg
+Mus             --------------------------------aaaggctgagacaggaggatc----aca
+Rattus          --------------------------------acaggataagacaggaggatc----aca
+Apodemus        --------------------------------aaaggctgagacaggaggatc----aca
+Cricetulus      --tctggcacatg-ctataatgccagcactc-acaggctgaggcaggaggatc----ata
+Mesocricetus    --tctgacatgtg-ctataatgccagcactc-agaggctgaagcaggaggatc----ata
+Peromyscus      t-gctagcatatg-ctataatgccagcactc-aaaggctgaggcaggaggatc----ata
+Microtus        t-gctggcggatg-ctatgatgtcagcactc-agaggctgaggcaggaggatc----ata
+Nannospalax     tgggtagcacatg----ctgtgccagaactc-aaatgctgaggcagaaggatc----aca
+Castor          t-gatagtgcatgcctctaattccagcacttgggagactgaggcagaaga------tatg
+Dipodomys       t-ggtagtaaatacctataatcccagtacttgtgaggctaaggtaagagaatc----cca
+Cavia           t-ggggatttagctcagcaacgtaagcacctgccttgc--aagcaggagg-----tcatg
+Heterocephalus  ------------------------------------------------------------
+Ictidomys       ------------------------------------------------------------
+Marmota         ------------------------------------------------------------
+                                                                            
+
+B1F             agtttgaagccagcctg-ggctacatagt--gag-ttccaggccagcctgggctaca--c
+B1F1            agttcgaggccagcctg-ggctacatagt--gag-ttccaggccagccagggctaca--t
+Jaculus         ggttccaggccagcctgacactacatagt--gaa-ttccaggtcagcccgggttacagca
+Mus             agtttgagaccagcctg-tgctatgtagttaaaagttccaggccagcctgggc------t
+Rattus          agtttgagaccagcctg-tgctaggtagttaaag-ttcctggtt---------------t
+Apodemus        agtttgagaccagcctg-tgctatgtagttaaag-ttccaggccagc------------t
+Cricetulus      cgtttgagaccagtctg-tgctatgtagttaaaa-ttctaggctagcctgga--------
+Mesocricetus    agtttgagaccagtctg-tgctatgtagttaaaagttctaggctagcctggg--------
+Peromyscus      agtttgagaccagtctg-tgctatgtagttaaag-ttccaggctagcctgggctacg--t
+Microtus        agttggagagcagtctg-tgcaatgtagttaaag-ttccaggctagcctgggctaca--a
+Nannospalax     ggtttgagactagccta-tgctacatagt--aaa-ttccaggccaccctgggctaca--t
+Castor          agtttgagatcatccta-ggctacctagtgaaat-------cctgtcttgaaaaaaa-ga
+Dipodomys       aatttgaggccaatttg-ggctgttcagcaagac-tctc---------caaaaaaaa-aa
+Cavia           agtttgatacc-------tggtaccgagaaaaag----------------aaaaaaa-aa
+Heterocephalus  ------------------------------------------------------------
+Ictidomys       ------------------------------------------------------------
+Marmota         ------------------------------------------------------------
+                                                                            
+
+B1F             agtgagaccctgtctc-------------aaaaaacaaaaaaa-----------------
+B1F1            agtgagaccctgtctc-------------aaaaaaacaaaa-------------------
+Jaculus         agtgaagccctccctg--gaaaaataaacaaacaacaactaaatctaagaaccctaaact
+Mus             acataggctttgtttcaaaaaaaaaaaaaaaaaaaaaagtaga----------ctgacca
+Rattus          agggagactttgtctc--------aagaaaaaaagtaactaaa----------ctgacca
+Apodemus        acatagactttgtctc----caaaaaaaaaaaaggtaactaga----------ctgacca
+Cricetulus      ----agacactgtctc-------------aagaaaaaagcaaa----------ctgacta
+Mesocricetus    -agagactcttgtctc-------------aagaaaaaagcaaa----------ctgacta
+Peromyscus      agagagactttgtctc-------------aagaaaaaagcaaa----------ctgacta
+Microtus        aggaagactcagtctc-------------aggaaaaaagtaaa----------ctgacta
+Nannospalax     agcgagaccctgtcttt---------aaaaaaatgaaactcaa----------ctgacat
+Castor          gaggaagcaataatta-------------aaaaaaataaataa----------ctgatca
+Dipodomys       aaaaaagcaata------------aaaaagaaaaaaatagaac----------ctgaaca
+Cavia           attaaaaaaagagtta------aaaaaaaaaaaatcctcaaaa----------ccaggca
+Heterocephalus  ---------------------------aaaaaaaccctcaaaa----------ccagcca
+Ictidomys       ---------------------------------aaaaacaaaa----------ctgacca
+Marmota         ---------------------------------aaaaacaaaa----------ctgacca
+                                                                            
+
+B1F             ------------------------------------------------------------
+B1F1            ------------------------------------------------------------
+Jaculus         agctctgctttactgt-tctggctggccagtccaaaaagcagcagagga-----------
+Mus             gctttggc-ttgtcag-cctgacta-----cccaaagaataccaagagggaaaggacgtc
+Rattus          gccttggc-ttgtcag-cctgattggccatcccaaagaatactaagaaggaaaggatgtc
+Apodemus        gctttggc-ttgtcag-cctgactag-----cccaagaataccaagagggaaaggatatt
+Cricetulus      gctttggctttgtcaa-cctgactgggcagcccaaagaacaccaggaggggaaggatacc
+Mesocricetus    gctttggctttgtcaa-cctgactgggcagcccaaagaacaccaggaggggaaggatacc
+Peromyscus      gctttggctttgtcaa-tgtgactggccagcccaaagaacacccaacagggaaggatgcc
+Microtus        gctctggctttgtcaa-cctgactggccagcccaaagaataccaggaggggaaagatgcc
+Nannospalax     gctttggctttgccta-gctggctgatcaacccaaagaataccaag---ggaaagatgcc
+Castor          gctttggc---------tttggccagccaacccaaagagcaccaagaaaggaaggatgcc
+Dipodomys       gctttagctttgctggtcttggccagccagcccaaagggcaccaaggaaggaag------
+Cavia           g-ttgagctttgccag-cctggccagcca------agagcatcaaggaaggaagaatgta
+Heterocephalus  g-tttggctttgccag-cctggccagccagcccagagagcatcaagaaaggaaggaggca
+Ictidomys       gttttggctttatcag-cctggccaggcagccc--agggcaccaaggaagacaggctatg
+Marmota         gttttggctctatcag-cctggccaggcagccc--agtgcaccaaggaagacagg-----
+                                                                            
+
+B1F             ------------------------------------------------------------
+B1F1            ------------------------------------------------------------
+Jaculus         ------gggccctgtaattttaatagcaccctgtaaccaaaga-----catccccccatc
+Mus             caagttgaaa---atggttttaatagcatcctgtggggaaagg-----------------
+Rattus          caagttgaaa---atggctttaacagcatcctgtggggaaagat--cttacccctacact
+Apodemus        taagttgaaa---atggttttaatagcatcctgtggggaaagatagctcacccctacatt
+Cricetulus      caagtagagc-ccatgattttaatagcaccctatgggaaaagatatctcacccc----ct
+Mesocricetus    caagcagagc-ctgtgattttaatagcgccctatgggaaaagatacctcaccc-----ct
+Peromyscus      caagatgaga-ccgtggttttaatatctccctatgggaaaagatacctcacccc----ct
+Microtus        caagttgagg-ctgtggttttaatagcaccctatgggaaaagatacctcatccc----ct
+Nannospalax     caagtaaggacctgtggttttaatagcatcccatcggaaaaggcgtttcacccccgcatc
+Castor          tacactgggaactgtagtcttagtaacagcccatgagaaaagacatctcacccc-acatg
+Dipodomys       ----ttgggacctgaggtcttcacagtatcttgtggaaaga-----ctccacccaacatc
+Cavia           aaagttgggacctgtggtgtgaacagcattctgtgag--gagacatctcactcccatagc
+Heterocephalus  aaagctgggacctgtggtgttaatagcatcctgtgagaaaagacatctcacccccatagc
+Ictidomys       taagacaagacccatggt-ctcacagcatgctgcctaaagagacatctcacccccacatc
+Marmota         ------gagacctgtggt-ctcacagcatgctgcctaaagagacatctcacccccacatc
+                                                                            
+
+B1F             ------------------------------------------------------------
+B1F1            ------------------------------------------------------------
+Jaculus         acagggtcacatcattgactgcttgggtttaacagga----ctgttctggattttgttct
+Mus             gtagggtcacatcactga---ctcagacttaacaggattctttggtgtgagcctcatact
+Rattus          gcagggtcacatcactga---ctcagatttaacaagatactttggtttgagcctcatact
+Apodemus        gtagggtcacatc------------------acagaattctttggtttgagcctcattct
+Cricetulus      gtagggtcatatcactga---cccagacctaacacaatagtttggtttgggtctcatact
+Mesocricetus    gtagggttatatcactga---ctcagacctaacacagttgtttcatttggatcttatact
+Peromyscus      gtagggccaaatcactga---ctcagacctaacacgatcgtttgctttgggtctcatact
+Microtus        gtggggtcacatcactga---ctcaga-ctaacacaattgtttggtttgggtctcatact
+Nannospalax     atggagtcac-tcactgattccttagatctaagaggattacttgtttcgagtctcatctt
+Castor          ttagggccacgtcactgattccttggttctaacaggattgttctttttaattctcatcct
+Dipodomys       ttagagccacgtcactcgctccttacatctaacaggg---ttctttttgactcttgctct
+Cavia           ttgcag-------------------ggaccaacaggattgcacctttggattctggtcct
+Heterocephalus  ttagag-------------------ggactagcaggatttttctttttaattctagtcct
+Ictidomys       ctggggtcatgtcactgactcctgggatgtaatagtgctattctctttgattcttatcct
+Marmota         ctggggtcatgtcactgactcctgggatgtaatagtgctgttctctttgattcttatcct
+                                                                            
+
+B1F             ----------------------------------------------------------
+B1F1            ----------------------------------------------------------
+Jaculus         gtgatgctcttagctataagatatgctatgctcacatactgtaaaagcaggaagtcat
+Mus             tgggtatgttcagctctaagacacag----------------------atgtgct-gc
+Rattus          tgggtatgctcagctctaagacatgctgtccccacacaccagcaagccaaaagct-gt
+Apodemus        tgggtatgctcagctctaagacatgctgtccccacaaaccataaagctaaaagct-gt
+Cricetulus      tgggtatgctcagctctaagacatgctgtccccacagaccataaagccagaggct-gt
+Mesocricetus    tgggtatgctcagctgt-------------------caccataaagccagaggct-gt
+Peromyscus      tgggtatgctcagctctaagacatgttctccccacagtccataaatcaaaag-ct-gt
+Microtus        tgcatatgctcagctctaagacatgctgtacccatagaccataaagccaaaagct-at
+Nannospalax     tgggtgctttcagctctaagacgtgatgtcctcacagactataaaaccaaaagct-gt
+Castor          tgggtaccctcaactccaagataggctgtcctcacatactctaaggccagaagcc-at
+Dipodomys       ttggtgccctcagtcccaagacacaatgcccttatatactataaaggcaaaagct-at
+Cavia           ccagg-----------------atgctgtcctctcaggccataatgccagaggct-gg
+Heterocephalus  tgagg---------------gcatgctgttctcacataccataaagccagaggct-gg
+Ictidomys       tgagtgcccttagttccaaggcactttgactccacatactgtaaaagctaacact-gt
+Marmota         tgagtgcccttagttccaaggcacattgactccacatactgtaaaggctaacact-gt
+                                                                          
