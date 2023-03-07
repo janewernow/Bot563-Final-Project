@@ -9,3 +9,7 @@ I downloaded miniconda in order to download ClustalW to my mac. I also downloade
 
 # Formatting Data for Alignment
 I pasted the data set for each gene marker into a visual studio code (any text editor will do but this worked the best for me) and saved each one as a text file. I put it in my Bot563-Final-Project folder in the Beaver_Data folder. All data files MUST be saved as a .txt. Make sure to delete any unwanted page numbers or headings from the data that may accidentally get copied into the data when pasting into a text editor.
+
+# Installing R Studio + packages
+I downloaded R studio and R. Then in R Studio I installed the necessary packages with install.packages("adegenet", dep=TRUE)
+install.packages("phangorn", dep=TRUE). Then I loaded the packages using library(ape), library(adegenet), library(phangorn).
