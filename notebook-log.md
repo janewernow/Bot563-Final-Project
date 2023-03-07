@@ -11,5 +11,14 @@ I downloaded miniconda in order to download ClustalW to my mac. I also downloade
 I pasted the data set for each gene marker into a visual studio code (any text editor will do but this worked the best for me) and saved each one as a text file. I put it in my Bot563-Final-Project folder in the Beaver_Data folder. All data files MUST be saved as a .txt. Make sure to delete any unwanted page numbers or headings from the data that may accidentally get copied into the data when pasting into a text editor.
 
 # Installing R Studio + packages
-I downloaded R studio and R. Then in R Studio I installed the necessary packages with install.packages("adegenet", dep=TRUE)
-install.packages("phangorn", dep=TRUE). Then I loaded the packages using library(ape), library(adegenet), library(phangorn).
+I downloaded R studio and R. Then in R Studio I installed the necessary packages with **install.packages("adegenet", dep=TRUE)**
+**install.packages("phangorn", dep=TRUE)**. Then I loaded the packages using **library(ape)**, **library(adegenet)**, **library(phangorn)**.
+
+# Creating a tree on R
+Make sure data file is in FASTA format.  **dna <- fasta2DNAbin(file="http://adegenet.r-forge.r-project.org/files/usflu.fasta")**
+Computing the genetic distances: here we use the Tamura and Nei 1993 model which allows for different rates of transitions and transversions, heterogeneous base frequencies, and between-site variation of the substitution rate **D <- dist.dna(dna, model="TN93")**
+Get the NJ tree **tre <- nj(D)**
+We use the ladderize function before plotting which reorganizes the internal structure of the tree to get the ladderized effect when plotted **tre <- ladderize(tre)**
+Plot the tree 
+**plot(tre, cex=.6)**
+**title("A simple NJ tree")** 
