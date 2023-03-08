@@ -1,6 +1,3 @@
-CLUSTAL format alignment by MAFFTL-INS-i(v7.490)
-
-
 >PB1D10
 ------------------------------------------------------------
 >Castor
@@ -277,8 +274,6 @@ tgtcc----agctggtcattcacctgacaat---------------cctcctaccctggt
 >Anomalurus
 ----------gctggccgtcacactcccacag--------------ccctccaccgccat
 
-
-
 >PB1D10
 ------------------------------------------------------------
 >Castor
@@ -307,21 +302,3 @@ gt-ttccttctctctctcctctctgtgtgtgcagtgttaatttctcatggcctccatcag
 gt-ttactcctctctgc-----------ttgctgtgttaattttttatggctttcatcag
 >Anomalurus
 gt-ccctctctcctggc--ccg-----cgtgctgtgggaatttttcctggcctcc-----
-
-
-
-PB1D10       --
-Castor       ag
-Dipodomys    ag
-Chaetodipus  ag
-Mus          ag
-Rattus       ag
-Apodemus     ag
-Peromyscus   ag
-Microtus     ag
-Nannospalax  ag
-Jaculus      ag
-Ictidomys    ag
-Cavia        ag
-Anomalurus   --
-
