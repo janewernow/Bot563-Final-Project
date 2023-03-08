@@ -303,7 +303,8 @@ gt-ttccttctcttttcctct------ttcatggtgttaatttttcatggcctccatcag
 gt-ttccttctctcttt-gcct-----tgcgctgtgttaatatttcatggcctccatcag
 >Ictidomys
 gt-ttccttctctctctcctctctgtgtgtgcagtgttaatttctcatggcctccatcag
->Caviagt-ttactcctctctgc-----------ttgctgtgttaattttttatggctttcatcag
+>Cavia
+gt-ttactcctctctgc-----------ttgctgtgttaattttttatggctttcatcag
 >Anomalurus
 gt-ccctctctcctggc--ccg-----cgtgctgtgggaatttttcctggcctcc-----
 
