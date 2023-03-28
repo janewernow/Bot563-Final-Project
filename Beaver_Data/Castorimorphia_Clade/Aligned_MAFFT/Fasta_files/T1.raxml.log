@@ -1,0 +1,39 @@
+
+RAxML-NG v. 0.9.0 released on 20.05.2019 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+RAxML-NG was called at 23-Mar-2023 14:15:25 as follows:
+
+raxml-ng --check --msa Marker_42657_aligned_formated.fasta --model GTR+G --prefix T1
+
+Analysis options:
+  run mode: Alignment validation
+  start tree(s): 
+  random seed: 1679598925
+  SIMD kernels: AVX2
+  parallelization: PTHREADS (8 threads), thread pinning: OFF
+
+[00:00:00] Reading alignment from file: Marker_42657_aligned_formated.fasta
+[00:00:00] Loaded alignment with 14 taxa and 600 sites
+
+Alignment comprises 1 partitions and 600 patterns
+
+Partition 0: noname
+Model: GTR+FO+G4m
+Alignment sites / patterns: 600 / 600
+Gaps: 39.23 %
+Invariant sites: 37.00 %
+
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /Users/janewernow/Desktop/Bot563-Final-Project/Beaver_Data/Castorimorphia_Clade/Aligned_MAFFT/Fasta_files/T1.raxml.log
+
+Analysis started: 23-Mar-2023 14:15:25 / finished: 23-Mar-2023 14:15:25
+
+Elapsed time: 0.002 seconds
+

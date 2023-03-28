@@ -1,0 +1,344 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Mus              CCCTTCCTCTGCAG-GT-----GGAGCCCACCGCCACG-CTGGCTGGCTGACT-------
+Rattus           CCCTTCCTCTGCAG-GT-----ACAGCTCACTGCCGCT-CTGGCTGGCTGCTT-------
+Apodemus         CCCTTCCTCTGCAG-GT-----GGAGCCCGCTGCCACG-CTGGCCG--------------
+Peromyscus       CCCCTCCTCTGCAG-GT-----ACAGCCCACTGCCACT-CTAGCTGGCTGCTT-------
+Microtus         TCCTTCCTCTGCAG-GT-----GGAGCCCACGGCCACT-CTAGCTGGCTGCTT-------
+Nannospalax      CCCTTCCTCTGCAG-GT-----GGAGCCCACTGCCATT-CTGGCTGGCTGTGTTTCTTTT
+Jaculus          CCCTTCCTCTGCAG-GT-----GGAGCCGACTGCCACC-CTGGCTAACTGTTT-------
+Cavia            CCCTTCCTCTGCAG-GT-----GGAGCCCACTGCCGCC-CTGGCTGGCTGTTT-------
+Pedetes          CCCTTCCTCTGCAG-GT-----GGAGTCCTCTGCCCCCACTGGCTGGCTGAGT-------
+Anomalurus       CCCTTCCTCTGCAG-GT-----GGAGCCCGCTGCCACC-CTTGCTGGCTGTTT-------
+Ictidomys        CCCTTCCTCTGCAG-GT-----GGAGCTCACTGCCACC-CTGGCTA----TTT-------
+Castor           CCCTTCCTCTGCAG-GT-----GGAGCCCACTGCCACC-CTGGCTAGCTGTTC-------
+Dipodomys        CCCTTCTTCTGCAG-GT-----GGAGCTCACTGCCACA-CTGGCTAGCTGTTA-------
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        ------------------------------------------------------------
+Chaetodipus      ------------------------------------------------------------
+                                                                             
+
+Mus              ------------------TGAGTGT-TTCTTGCCTTTGCTTCCACTT-GTGTCTGTGCAG
+Rattus           ------------------TGCCCAT-TTGCTGCCTTTGCTTCCACTT-TTGTCCATGC--
+Apodemus         ---------------------------------CTCTGCTTCCGCTT-CTGACCATGTGG
+Peromyscus       ------------------TGCATGC-TTCCTGTCT-------------------ATGCAA
+Microtus         ------------------TGCATGA-TTCT------------------------ATGCAA
+Nannospalax      GTTTTGTTTTGTTATTTTTGCATT--TTCCTGCGTTTGTTCCCATTTCCTGTCTGTGCAG
+Jaculus          ------------------TTCACGC-TTCCTGCTTTTGTTCCCACTTCCTGTCTAGGCAG
+Cavia            ------------------CACGCAC-TTCCTGCTTTTGTTCCCACTTCCTGTCGAGGCAG
+Pedetes          ------------------TGCACACTTTCCTGCTCTTATTCCCACTTCCTATCTAGGCAG
+Anomalurus       ------------------TGCACAC-TTCCTGCTTTTGTTCCCACTTCCTATCTAGGCAG
+Ictidomys        ------------------TACATAC-TTCTTGCTTTTGTTCCCACTTCCTATCTAGGCAT
+Castor           ------------------TGTATAC-TTCCTGTTTTTGTTCCCGCTTCCTGTCTAGGCAG
+Dipodomys        ------------------TACACAG-TTCCTGCTTTTGTTCCCATTTCCTGTCTAGGCAG
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        ------------------------------------------------------------
+Chaetodipus      ------------------------------------------------------------
+                                                                             
+
+Mus              GATGATAGCAAG--GAGGACTTTGGGGTGGGG----TGG--GGGAAGACCAGGCTAAGAT
+Rattus           ---------------AGGACTTTGGGGGGG------TG-----AAAGACCAGGCTAAGAC
+Apodemus         GGTGACAGCAAG--GAGGTCTTTGGGGGGCTGGGGGTGAGGGGGAAGACCAGGCTAAGAT
+Peromyscus       GATGACAGCAAA--GAGGACTTTTTGGGG-------TG---AAAGAGACCA---------
+Microtus         GATGATAGCAAA--GAGGACGTTTTGGGG-------TG---AAAGAGACCAGGGGT----
+Nannospalax      GATTACAGCAGA--GAGGACTTTG-GGGG-------TAA--AAAGGGGCCAAGCTGAGAT
+Jaculus          GATTATGGCAGA--GAGAACTTTTAGGGG-------TG---AAAGGGACCAAGCTAAGAT
+Cavia            GATCATAGCAGAGGGAGGACTTTT-GGGA-------TG---AGGAGGACCAAGCTGAG-C
+Pedetes          GATCGTAGCAGAGAGAGGACTTTCTGGGG-------TG---AGAGGGATCAAGTTGAAAG
+Anomalurus       GATCATAACAGAGAGAGGACTTTTTGGGG-------TG---AGAGGGACCAAGCTGAGAT
+Ictidomys        GATCCTATCAGA-----GAATTTTGGGGGT------TG---AGAGGGACCAAGCTGAAAT
+Castor           GATTATAGCAAA-AGGGGACTTTTGAGGG-------TT---AAAGGGACCAAGCTGAGAT
+Dipodomys        GATCATAGCAGA--GAGGACTTTTGGGGG-------TT---AGGAGGTCCATGCTAAGAT
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        ------------------------------------------------------------
+Chaetodipus      ------------------------------------------------------------
+                                                                             
+
+Mus              ----GGGGTGGCAATGTCAA-GG-------------------------------------
+Rattus           ----GGGGTGGTGATGTCAA-GG-----------------------------GCCTT---
+Apodemus         ----GGGGCGGTGATGTCAG-GGG------------------------------------
+Peromyscus       ----GGGGTAATGATGTCAG-GGG------GAGGGGCCTTTA------------------
+Microtus         ------------------------------------------------------------
+Nannospalax      ----GGTGTGATGTCAAGGACACAGGCCAGGGGAGACTTGGGAATAGCC--TGTTGTAA-
+Jaculus          ---GGGGGTGATGATGTCAG-GGATTGAGGGCTCTCCAAG----------TTGCTCTGCC
+Cavia            ---GGGGTTGGTGATGTCAGGGGGCAGAGGTTACCCCAGCAAAGCTGCAGCTGCCCTTCC
+Pedetes          ----GGGATGGTGATGTCCA-GGATAGAGGCCACTCCAGTCAAGTTGCTTCTGCCTTGCT
+Anomalurus       ----GGGGTGGTGATGTCAG-GGACAGAGGCTGTACTGGTCAGGTTGCTTCTGCCTTGCT
+Ictidomys        ----GGGGTGGTAATGTCAGTGGACATAGGCCATTCCAATGAAGTTGCTTCAGCCTTTCT
+Castor           AGGATGGATGACAATGTCAG-GGACAGAGGTCACTCCAGTAAAGTTACTTCTGCCTTTCT
+Dipodomys        -----GGGTGATCGTGTCAG-GGTCAGAGGTCACTCTAGTGAAATTCCTTTTGCCTTCCT
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        -------------------------------------------------CCCTTCTTCTG
+Chaetodipus      -------------------------------------------------CCCTTCTTCTG
+                                                                             
+
+Mus              -------------GGTAGCCTGTTG----TGAGGGAG-----------------------
+Rattus           ---AAG-----TGGGTAGCCAGTTCACGTTCACGAAT-----------------------
+Apodemus         ---CCT-----TAGGTGGGTAAGCCAG-TTCACAAGT-----------------------
+Peromyscus       -----G-----TGGGTGAGCTGGCGGGGTTCACAAGT-----------------------
+Microtus         -----G-----TTGATGTCAAGGGGAGGGTCCCAGAT-----------------------
+Nannospalax      GCCTGGCA---TGGTGGTGCACTCTTAGTCCCAGCACTCAGGAGGCCGAGGCAGGCGGAT
+Jaculus          TGCCAG-----TGAGTGGCTAGGGCAGGCTCGGGAAT-----------------------
+Cavia            TCCAG------TGGGTGGCAAGAGGCGGCCCCAAAAC-----------------------
+Pedetes          TCCAGG----GCAGGGGG-CAGGGGAAGCT---GAGC-----------------------
+Anomalurus       TCCAG------CAGGTGGGCAGGGGAGGCTCTGGAAC-----------------------
+Ictidomys        TCCAG------TGGGTGGCCAGGGAAGGCTTTGGAAT-----------------------
+Castor           CCCAG------TGAATGGCCAGGGGAGGCTCTGGAAA-----------------------
+Dipodomys        CCCAG------CGGGTATCTA---GAAGTTCTAGAAC-----------------------
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        CAG-GT-----GGAGCTCACTGCCACC-CTGGCTAGCTGTTC------------------
+Chaetodipus      CAG-GT-----AGAGCTCACTGCCACC-CTGGCTAGCTACTC------------------
+                                                                             
+
+Mus              ------------------------------------------------------------
+Rattus           ------------------------------------------------------------
+Apodemus         ------------------------------------------------------------
+Peromyscus       ------------------------------------------------------------
+Microtus         ------------------------------------------------------------
+Nannospalax      CTCTGTGAGTTCGAGGCCATCCTGGTCTATGTAGTGAGTTCCAGGACAGCTGGGGCTACA
+Jaculus          ------------------------------------------------------------
+Cavia            ------------------------------------------------------------
+Pedetes          ------------------------------------------------------------
+Anomalurus       ------------------------------------------------------------
+Ictidomys        ------------------------------------------------------------
+Castor           ------------------------------------------------------------
+Dipodomys        ------------------------------------------------------------
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        -------TGCACAT-TTCCTGCTTTTGTTCCCATTTCCTGTCTAGGCAGGATCATACCAG
+Chaetodipus      -------TGCACAC-TTCCTGGTTTTGTTCCYATTTCCTGTCTAGGCAGGATCATGGCAG
+                                                                             
+
+Mus              ----------------------GGCCTGCT-G---TTCTGTG------------------
+Rattus           ----------------------AGCCTG-------TCCTGAG------------------
+Apodemus         ----------------------AGCCTG-------TTCTGAGGGT---------------
+Peromyscus       ----------------------AGCCTG-------TTCTGAGGGT---------------
+Microtus         ----------------------AGCCTG-------TTCCGGGGGT---------------
+Nannospalax      GGGAGACCCTGTCACAAAAAAGAAATTGCCTG---TTCTGAGTGT---------------
+Jaculus          ----------------------AAACTGCTCT---TTCCCAGGGT---------------
+Cavia            ----------------------AGCCTGCT-T---GGCTGACTGTT--------------
+Pedetes          ----------------------AGCCTGCTCT---TTCTGAGCAT---------------
+Anomalurus       ----------------------AGCCTGCTCT---TCCTGAGTGT---------------
+Ictidomys        -------------------------CTA-------TTCTGAGTGCT--------------
+Castor           ----------------------AACCTGCT-------CTGATTGTGGGAATGT--TGTTT
+Dipodomys        ----------------------AGCTTGCTTT---TTCTGAGTGTGGGTATGTC-TCCAC
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        AGAGAGCACTTTTGGGGG-------TT---AGAAGGCCTGAGCTAAGAT-----AGGTGA
+Chaetodipus      AGAGAGGACTTTTGGGGG-------TT---AGAAGGTCCAAGCTAAGAT-----AGATGA
+                                                                             
+
+Mus              ------------------------------------------------------------
+Rattus           ------------------------------------------------------------
+Apodemus         ------------------------------------------------------------
+Peromyscus       ------------------------------------------------------------
+Microtus         ------------------------------------------------------------
+Nannospalax      ------------------------------------------------------------
+Jaculus          ------------------------------------------------------------
+Cavia            ------------------------------------------------------------
+Pedetes          ------------------------------------------------------------
+Anomalurus       ------------------------------------------------------------
+Ictidomys        ------------------------------------------------------------
+Castor           TGGGCT-TGGTTTGGTTTGGTTTTTTGATACAGAAT------------------------
+Dipodomys        TTGATT-TGGTTTGGTTTGGTTTTATAAGATGGGGTCTCACTATGTG-GTCCAGGTTGAC
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        TCCTGTCAG-GGTCAGAGGTCACTCTAGTGAAATTTCT----------------------
+Chaetodipus      TCATATCAG-GGTCAAAAGTCACTCTAGTAAAATGTCTTTTGCCTTTCTCCCAG---TTG
+                                                                             
+
+Mus              ------------------------------------------------------------
+Rattus           ------------------------------------------------------------
+Apodemus         ------------------------------------------------------------
+Peromyscus       ------------------------------------------------------------
+Microtus         ------------------------------------------------------------
+Nannospalax      ------------------------------------------------------------
+Jaculus          ------------------------------------------------------------
+Cavia            ------------------------------------------------------------
+Pedetes          ------------------------------------------------------------
+Anomalurus       ------------------------------------------------------------
+Ictidomys        ------------------------------------------------------------
+Castor           -------CTTACTATGTAGTCCAGGCTC-GTCTGGAACTCC---TGATTTC-------CC
+Dipodomys        CTAAGAACTCACTATGCAGTCGAGGCTG-GTTTTGAACTCG----GATCTT-------CC
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        ---------------GGGAGAAC-------------------------------------
+Chaetodipus      GTACCTA---GAAATTCTGGAGC-------------------------------------
+                                                                             
+
+Mus              ------------------------------------------------------------
+Rattus           ------------------------------------------------------GGTGGG
+Apodemus         -----------------------------------------------------GGGCCTG
+Peromyscus       -----------------------------------------------------GTGTGTG
+Microtus         -----------------------------------------------------GGGACTG
+Nannospalax      -----------------------------------------------------TGGA---
+Jaculus          -----------------------------------------------------GGGA---
+Cavia            ------------------------------------------------------GGAATG
+Pedetes          -----------------------------------------------------AGGAATG
+Anomalurus       -----------------------------------------------------GGGAATG
+Ictidomys        ------------------------------------------------------GAAATG
+Castor           TGCCTCAGCCTCCCCCGGTGTGTGATTACAGATGTGTACCACCATGTCTGGCTGGGAATG
+Dipodomys        TATCTCAGCTTC-TCAGTACTGGGATTTCCGGCATATACCACCATGCCCAGCTGGGAAGG
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        ------------------------------------------------------------
+Chaetodipus      ------------------------------------------------------------
+                                                                             
+
+Mus              ----------GATAATCTTCATATAC-TCCGAGTC-TAGTCCCAGAGAG---------TG
+Rattus           ----CCTGTGGATAG------------TCTGCATA-TGCTTCCTGAG-----------TG
+Apodemus         CTGTTCTGTGGG----------------------------------------------TA
+Peromyscus       CTGATCTGTGTGCGA------------TCCGTGTG-CATTCCCAGAG-----------TT
+Microtus         CTGTTCTGTGGGTAATTTGTATGTAA-TCCATGTG-CATTCCCAGAG-----------TT
+Nannospalax      CTGTTTTGTGGATAATTGATGTGTAA-TCCACACA-TATCCCCGGTGAGTTAGCTTAGAG
+Jaculus          CTGTTCTGTGGGTAGTTTGTATGTAA-TCCATGTA-TGTCCCCAGAGAACTAGCTTAGAG
+Cavia            CT---TTGTGGTTGATTTGTGGGTAGCGGCAGCTT-GGCCCCCACA-AACTAGTTCTGAG
+Pedetes          TCGTTCTGTGGATAACTTGTATGTAG-CCCACATA-CATCCCCATAGAGCTAGTTCAGAG
+Anomalurus       TTGTTTTGTGGATAACTTGTGTGTGG-CCCACATA-CAGCCCCATAGAGCTAGTTTAGAG
+Ictidomys        TTGTTTTGTGGATAATTTGTATACAGATATACATA-TGTCCCTACAGAGCTAATTTAGAG
+Castor           TTGTTTTGTGGGTAATTTGTGTGTAG-CCCACTTAATATCCCCACAGAGCTAGCCTAGAG
+Dipodomys        TTGTTTCATTGGTGATTTGTGTATAA-TCCACATG-CATCCTTGCAGAACTAGTTCACAG
+B1F1             ---------------------------------------------------------TTT
+PB1D10           ---------------------------------------------------------TTT
+Heteromys        -------CAGCT--CTTT--CTGAGTGTGGGTATGTCTTTGGTTGAATT-GGGTTTGGTT
+Chaetodipus      --------AGCTTGCTCTTTCTGGGTGTGGGGATGTC-----TTTGATTTGGGTTTGGTT
+                                                                             
+
+Mus              AGCTTT-CTGGAAGCTCAGGGTTGGGTTTCCCT----CCTGTCCCCCATCAGA-GGGCCC
+Rattus           AGCTTT-CTGGAAGCCAAGGGTTGGATTTACCT----CCTGTCCCTCATC--AGGGTGCC
+Apodemus         ATCTT--CTGGAAGCTAAGGGCTGGGGTTACCT----CCTGTCCCCCACCCAAGGGT-CC
+Peromyscus       AGCTTCCCTGGAAGCTAAGGT-TGTGTTCATCTCCTTCCTGTCTACCGTCCGACGGTCCC
+Microtus         AGCTTT-CTGGGAGCTAAGGGTTGCGTTCGTCT----CCTGTCTGCAGTCAGATGATCCC
+Nannospalax      AGCTCT-CTGGAAGCTAGGAGTTGTGTTTATGG----CCTGTCTACCATCACAAGGTCCC
+Jaculus          GGCTTT-CTGGAGC-------TTCT-CTTATCT-----------GCCATCTCAGGGCCCC
+Cavia            GGCTTT-CTGGAAGCCGGGAGTTGTGTCCACCT----CCTGTTTGCCATGGCTGCCTCCC
+Pedetes          GGCTTT-CTGGAACCTGAGAGTTGTGTTCATCT----CCTGTCTGCCATCACAGGCTCCC
+Anomalurus       GGCTTT-CTGGAACCTGAGAGTTGTGTTCATCT----CCCATCTGCCATCACAGGCTCCC
+Ictidomys        GGCTTT-CTGGAACCTGAGAGTTATGTTCATCT-----------GCCACCACAGACTCCA
+Castor           AGCTTT-CTAGAACCTGAGAATTGTGTACATCT-----------GCCATCACAAGCTCCC
+Dipodomys        GGTTTT-CTGCAACATGAGGATTGTGTCTATCT-----------GCCAACTCAGGCTCCC
+B1F1             TGTTTTTTTGAGAC----AGGGTCTCACTATGTA-GCCCTGGCTGGCCT-GGAACTCACT
+PB1D10           TGTTTTTTTGAGAC----AGGGT-------------------------------CTTGCT
+Heteromys        TGGTTTTATAAGAC----GGGGTCTCACTATGTG-GTCCAGGTTGACCTAAGAACTCACT
+Chaetodipus      TGGTTTTATGAGAC----AAGGTCTCACTATGTGGGTCTAGGTTTACCAAAGAACTCACT
+                    *    *             *                                   * 
+
+Mus              -TGTGCTTTTT--CTGATTCTCTCTCTCTCTGCCCTCGAA-----AG-GCTCTGGCGGCT
+Rattus           CTGTGCTTTTTCTCTGATTCTC----TCTCTGCCCTCCCA-----AG-GCTCTGGCGGCT
+Apodemus         -TGGGCTTTTTCTCTGATTCTC----TCTCTGCCCTCCCA-----AG-GCTCTGGCAGCT
+Peromyscus       CTGTAC-TTTCCTCTAATTCTC----TCAATGCTCTCCCA-----AG-GCTCTGGCGGCT
+Microtus         CTGTGC-TTTTCTCTGATTCCC--TCTCTCTGCTCTTGCA-----AG-GCTCTGGCGGCT
+Nannospalax      CTGGGCTTTTCC-CTCATCTCT---CTCTGT-CTCTCCCA-----AG-GCTCTGGTGGCT
+Jaculus          TTGTATTTTTCC-CTAATTCCC----TCTGTGCTCTCTCA-----AG-GCTCTGGCGGCT
+Cavia            TTAAA--CTTCC-CTGGTTCCT----TCTCCCCTCCCCCA-----AG-GCTCTGGCGGCT
+Pedetes          TTAAACTCTCCC-CTAAGTCCC----TCTCTGCTCCCCCA-----AG-GCTCTGGCGGCT
+Anomalurus       TTGTACTCTTCC-CTAACTCCC----TCTCTGCTCCCCCA-----AG-GCTCTGGCGGCT
+Ictidomys        TTATACTCTTCT-CTAATTCCC----TCTTTACTCCTCCA-----AG-GCTCTGGCGGTT
+Castor           TTGTACTCTTCC-TTAATTTGT----TCTC-GTTTCCTCA-----AG-GCTCTGGTGGCT
+Dipodomys        TGGTACTCTCTC-CTAATTCCT----TCTCTGTTTCTCCA-----AG-GCTCTGGCGGCT
+B1F1             ATGTAGCCCAGG-CTG-GCCTCGAACTCACGGCGATCCT---------CCTGCCTCAGC-
+PB1D10           ATGTAGCCCAGG-CTG-GCCTTGAACTCAC---GATCCT---------CCTGCCTCAGC-
+Heteromys        ATGCAGTCGAGG-CTG-GTTTTGAACTCG----GATTTTTTTT--TTTTCTACCTCAGC-
+Chaetodipus      ATGCAGTCTAGG-CTGTGTCTTGAACTCT----GATCTT---------TCTACCTCAGC-
+                               *           **                     **      *  
+
+Mus              CTTTCAATCTCTCAGGATCCGGAGACATGTTTCTGGGGATGCCCGGG-------------
+Rattus           CTTTCAATCTCTCAGGATCCGGAGACATGTTTCTGGGGATGCCCGGG-------------
+Apodemus         CTTTCAATCTCTCAGGATCCGGAGACATGTTTCTGGGGATGCCCGGA-------------
+Peromyscus       CTTTCAATCTCTCAGGATCCGGAGACATGTTTCTGGGGATGCCCGGG-------------
+Microtus         CTTTCAACCTCTCAGGATCCGGAGACATGTTTCTGGGGATGCCCGGG-------------
+Nannospalax      CTTTCAATCTCTCAGGATCCGGAGACATGTTTCTGGGAATGCCTGGG-------------
+Jaculus          CTTTCAATCTCTCAGGATCCGGAGACATGTTTCTGGGAATGCCTGGC-------------
+Cavia            CTTTCAATCTCTCAGGATCCGGAGACATGTTTCTGGGGATGCCCGGG-------------
+Pedetes          CTTTCAATCTCTCAGGATCCAGCGACATGTTTCTGGGGATGCCCGG--------------
+Anomalurus       CTTTCAATCTCTCAGGATCTGGAGACATGTTTCTGGGGATGCCCGG--------------
+Ictidomys        CTTTCAATCTCTCAGGATCCGGAGACATGTTTCTGGGGATGCCTGGG-------------
+Castor           CTTTCAGTCTCTCAGGATCTGGAGACATGTTTCTGGGGATGCCCGGC-------------
+Dipodomys        CTTTCAATCTCTCAGGATCCGGAGACATGTTTCTGGGGATGCCCGGG-------------
+B1F1             CTCCCGAGTGCTGGGATTACAGGCGTGTGCCACC----ACGCCCGGC-T-----------
+PB1D10           CTCCCGAGTGCTGGGATTACAGGCGTGCGCCACC----ACGCCCGGC-T-----------
+Heteromys        CTC-G-CATACTGGGATTACAGGCTTTAATCACC----ATGCCTGG--TGGAAGGTTGTT
+Chaetodipus      CTC-CCAGTACTAGGATTACAGGCCTTAACCACC----ATGCCCACCTGGGAAGGTT---
+                 **        **  *  *   *          *     * ***                 
+
+Mus              ------------------------------------------------------------
+Rattus           ------------------------------------------------------------
+Apodemus         ------------------------------------------------------------
+Peromyscus       ------------------------------------------------------------
+Microtus         ------------------------------------------------------------
+Nannospalax      ------------------------------------------------------------
+Jaculus          ------------------------------------------------------------
+Cavia            ------------------------------------------------------------
+Pedetes          ------------------------------------------------------------
+Anomalurus       ------------------------------------------------------------
+Ictidomys        ------------------------------------------------------------
+Castor           ------------------------------------------------------------
+Dipodomys        ------------------------------------------------------------
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        TTGTTGGTAATTTGTGTATAA-TCCACATA--------------CTAGTTGAGAGGGTTT
+Chaetodipus      -TTTTGGTAATTTGTGTGCAA-TCCACATC-----CCTGTAGAACTCGTTCACAGGGTTT
+                                                                             
+
+Mus              ------------------------------------------------------------
+Rattus           ------------------------------------------------------------
+Apodemus         ------------------------------------------------------------
+Peromyscus       ------------------------------------------------------------
+Microtus         ------------------------------------------------------------
+Nannospalax      ------------------------------------------------------------
+Jaculus          ------------------------------------------------------------
+Cavia            ------------------------------------------------------------
+Pedetes          ------------------------------------------------------------
+Anomalurus       ------------------------------------------------------------
+Ictidomys        ------------------------------------------------------------
+Castor           ------------------------------------------------------------
+Dipodomys        ------------------------------------------------------------
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        T-CTGCAACATGAGGGTTGTACACATCT----CCCTTTTGCCATCTCAGGTTCCCTGGTA
+Chaetodipus      T-CTRCAACATGAGGCTTGTATACATCT----CCTATCTGCC----------------TA
+                                                                             
+
+Mus              ------------------------------------------------------------
+Rattus           ------------------------------------------------------------
+Apodemus         ------------------------------------------------------------
+Peromyscus       ------------------------------------------------------------
+Microtus         ------------------------------------------------------------
+Nannospalax      ------------------------------------------------------------
+Jaculus          ------------------------------------------------------------
+Cavia            ------------------------------------------------------------
+Pedetes          ------------------------------------------------------------
+Anomalurus       ------------------------------------------------------------
+Ictidomys        ------------------------------------------------------------
+Castor           ------------------------------------------------------------
+Dipodomys        ------------------------------------------------------------
+B1F1             ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Heteromys        CTCTCCC-CTAATCCTT----TCTCTGTTTCCCCA-----AG-GCTCTGGCGGCTCTTTC
+Chaetodipus      CTCTCCC-CTAATTCTT----TCTCTGTTTCTCCA-----AG-GCTCTGGCGGCTCTTTC
+                                                                             
+
+Mus              -------------------------------------------
+Rattus           -------------------------------------------
+Apodemus         -------------------------------------------
+Peromyscus       -------------------------------------------
+Microtus         -------------------------------------------
+Nannospalax      -------------------------------------------
+Jaculus          -------------------------------------------
+Cavia            -------------------------------------------
+Pedetes          -------------------------------------------
+Anomalurus       -------------------------------------------
+Ictidomys        -------------------------------------------
+Castor           -------------------------------------------
+Dipodomys        -------------------------------------------
+B1F1             -------------------------------------------
+PB1D10           -------------------------------------------
+Heteromys        A------------------------------------------
+Chaetodipus      AATCTCTCAGGATCCGGAGACATGTTTCTGGGGATGCCCGGG-
+                                                            

@@ -1,0 +1,137 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Mus              AAA-------CCGTCCCTG-----ACATCACTGGGT------------TTTAGC-ATAGT
+Rattus           AAA-------TTGCCCCTG-----ACATCACTGGGT-------------TTTGTCATGGT
+Apodemus         -------------------------------TGGAT-------------TTTATCATGGT
+Peromyscus       AAGAAA----CCCTCCCTG-----ACCTCACTGGGT--------------TTGTTGTGGT
+Microtus         AAAAAAA---ACCTTCCTG-----ACCTCACTGGGT--------------TTGTTGTGGT
+Ictidomys        AAAAACAA-TAA-TTCCTGGGTTTATTTTGCTGGATTGCATTGTGAGGGTTCCTGGTGGT
+Nannospalax      AAACTGAAGAAAC--CCTG-----ACATTGCTGGGTTGCACTGTAAAGTTTCCCAGTGAT
+Anomalurus       ------------------------------------------------------------
+Jaculus          AAAAA----TCTCTTCCTT-----ACATGGCT-----ACATTATGAAATTTCCCAGTGGT
+Cavia            AAAA------CAGTTCCTG-----ATACTGCTGGGTTGGATTGTGAGATTATCCTGTGGT
+PB1D10           ------------------------------------------------------------
+Castor           ------------------------------------------------------------
+Dipodomys        ------------------------------------------------------------
+                                                                             
+
+Mus              TTTTGGACGAGCTGCCCCTTG---------------------------------------
+Rattus           TTTTGGAAGAACTGCCCCTTG---------------------------------------
+Apodemus         TTTTGGAAGAGCTGCCCCTCG---------------------------------------
+Peromyscus       TT--GGAAGAGCTGCCCCTTG---------------------------------------
+Microtus         TTT-GGAAGAGCTGCCCCTAG---------------------------------------
+Ictidomys        TTT-AGGAGAGCTATCACTTG---------------------------------------
+Nannospalax      TTT-AGAAGAGCTGCCCTTTG---------------------------------------
+Anomalurus       ------------TGTTCCTTG---------------------------------------
+Jaculus          TTT-AGAAGAGCTAT-CCTTG---------------------------------------
+Cavia            TTC-AGAAGACCTGGCCCTCG---------------------------------------
+PB1D10           ------------------------------------------------------------
+Castor           ------------------------------------------------------------
+Dipodomys        ------------------------------------------------------------
+                                                                             
+
+Mus              ------------------------------------------------------------
+Rattus           ------------------------------------------------------------
+Apodemus         ------------------------------------------------------------
+Peromyscus       ------------------------------------------------------------
+Microtus         ------------------------------------------------------------
+Ictidomys        ------------------------------------------------------------
+Nannospalax      ------------------------------------------------------------
+Anomalurus       ------------------------------------------------------------
+Jaculus          ------------------------------------------------------------
+Cavia            ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Castor           -------------------------------------AAAAAA--GT-ACTTCCTG----
+Dipodomys        -------------------------------------AAAAAAAAATCACTTCCTG----
+                                                                             
+
+Mus              ---------------------------------------------GTGATCTTTATAGCA
+Rattus           ---------------------------------------------GTGATCTTTATAACT
+Apodemus         ---------------------------------------------GTGATTTTTATAGCT
+Peromyscus       ---------------------------------------------GTAATCCTTGCAGCT
+Microtus         ---------------------------------------------GTAATCTTTGCGGCT
+Ictidomys        ---------------------------------------------GTAATCTTGGCAGTT
+Nannospalax      ---------------------------------------------GTAATCTCCATAGCT
+Anomalurus       ---------------------------------------------GTAATCTGTGTAGCT
+Jaculus          ---------------------------------------------GTCATCTCTGCAGCT
+Cavia            ---------------------------------------------GTGATATTGGCAGCT
+PB1D10           --------------------------------------------------------AGCC
+Castor           -ACATTGCTGAGTTGTGTTGTGAAATTTCCTGATGGTATT-AGAAGAGCTGTTCCTCACT
+Dipodomys        -ACATTGCTGGGT-GCATTGTGACATTTCCCGGTGGTTTT-GGAAGAGCTGTTGCTTGCT
+                                                                             
+
+Mus              TAGTTAAGGAAAAATGGGGTTGAGACC-----------------TACGAGGGAGGCTAGG
+Rattus           TAGTTAAGGAACAATG-AGGTGAGACC-----------------TGAGAGGGAGACTAGG
+Apodemus         TAGTTAAGGGAAAATGGGGTTGAGAAC-----------------TGAGAGGGAGACTAGG
+Peromyscus       TAGTTAGGG---------------ACC-----------------CGAGAGGGAGACTGGG
+Microtus         TAGTTAGGGAACAAGCGGGATGAGACC-----------------CAAGAGGGAGACTGGG
+Ictidomys        TAATTAAGGGATAATAT-----GCACCTGTTGACCTTC-AAAAGTGAGAGGGAGCCTGGG
+Nannospalax      TAATTAGGAAATAATCTAGATGGGACCTGTTGGGCTTTTGAAACCAGGAGGAGGACTGGG
+Anomalurus       TAATTAGGGGACAATCTGGATGGAATCTGTAGGTCTTT-AAAAAGGTGAGGGAGACTGGG
+Jaculus          TAAATAGGG-ATAATCTGGATGGGACCAATTGGGCTTT-GAAAATGAGAGGGAGACTGGG
+Cavia            TCATTAAGGGATAATGTAGATAGGACCTTTGGGGCTTT-AAAAATGTGAGGGAGACCCGG
+PB1D10           GGGCGTGGTGGCG-CACGCCTGTAATCCC-------------AGCACTCGGGAGGCTGAG
+Castor           GGGTATGCTGGCA-CATGCCTGTAATGCC-------------AACACTCAGGAGGCAGAG
+Dipodomys        ATGGGTGGTGGCA-CTTGCTAGTCATCCT-------------AGAATTTAGGA-GCA---
+                                         *                         *    *    
+
+Mus              A-GATAGACGC----------GAGTA-CCAACCAGACTGACTGACATTCCACCTC-----
+Rattus           A-GATAGACTC----------GAGCC-CCAACCAGA----CTTTCATTCTGCTTC-----
+Apodemus         A-AGTAGACTG----------GACTA-CCAACCAGACTGACTTCCATCCCACCTC-----
+Peromyscus       A-GATGGGCTCACAGCATGGAGGGTA-CCAACGAGAATGCCCTTCATT-CCTCTC-----
+Microtus         A-GGTGGGCTCACAGCACAGAGGGTA-CCAATGAGAACGACCTTCATCCCGCCTC-----
+Ictidomys        A-GAAC-AGTCGCAGTATAGAGAGTA-CCAACCAAACAGACCTATCTCTCGTCTC-----
+Nannospalax      A-AACTGGATCACAGCATGGAAGGTA-CCAACCAGACCCACCTGTGTCCCACCTT-----
+Anomalurus       A-GACCTGGTCACAGTGTGAAAGGTA-CCAATCAGACAGAACTTCATGCCACCTC-----
+Jaculus          A-GTCTGGGTCACAG-AT---------CCTGCCAGAAAGACTTGCATCCTGCCTC-----
+Cavia            G-GCCTGGATCACAGCAGGGCGGGCA-GCAGCCAGACAGCCCTGCATTCTTCCCC-----
+PB1D10           GCAGGAGGATCGTGAGTTCAAGGCCAGCCTGGGCTACATAGCAAGACCCTGTCTCAAAAA
+Castor           GCAGTAGGGTCATGAGTTTCAGGCCAGCCTGCGCTACATATTGAGACCC-ATCTCAAAAA
+Dipodomys        ---------CCATGAGTTCCA-TCCA----------------GAGACCCTG-CTGACACA
+                                                                             
+
+Mus              AG----GAAC--------------------------------------------------
+Rattus           AG----GAGC--------------------------------------------------
+Apodemus         AG----GAGC--------------------------------------------------
+Peromyscus       AG----GAGC--------------------------------------------------
+Microtus         AG----GAGC--------------------------------------------------
+Ictidomys        AG----GAAC--------------------------------------------------
+Nannospalax      AG----GAGC--------------------------------------------------
+Anomalurus       AG----GAGC--------------------------------------------------
+Jaculus          AG----GAGC--------------------------------------------------
+Cavia            AG----GAGC--------------------------------------------------
+PB1D10           AA---CAAAA--------------------------------------------------
+Castor           AAACCCAAAAACAAATTAGAAAAGAGCTGTTCCTGGGTAATCTTTGCAGTTTAATTAGGA
+Dipodomys        AAAGCCAAAACCA-----GAA--GAGTTGTTCCT-----------------------AGG
+                 *      *                                                    
+
+Mus              ------------------------------------------------------------
+Rattus           ------------------------------------------------------------
+Apodemus         ------------------------------------------------------------
+Peromyscus       ------------------------------------------------------------
+Microtus         ------------------------------------------------------------
+Ictidomys        ------------------------------------------------------------
+Nannospalax      ------------------------------------------------------------
+Anomalurus       ------------------------------------------------------------
+Jaculus          ------------------------------------------------------------
+Cavia            ------------------------------------------------------------
+PB1D10           ------------------------------------------------------------
+Castor           AATAATCTGGGTGGGACCTGTTGGGCTAT-GAACATGTGAAGGAGACTGGGAGACCAGTT
+Dipodomys        GATA-TCTGGTTGGGACCTGTTGGGCTTT-AAAAATACAAAGTAGATTAAGAGGCCCGGT
+                                                                             
+
+Mus              -----------------------------------------------------------
+Rattus           -----------------------------------------------------------
+Apodemus         -----------------------------------------------------------
+Peromyscus       -----------------------------------------------------------
+Microtus         -----------------------------------------------------------
+Ictidomys        -----------------------------------------------------------
+Nannospalax      -----------------------------------------------------------
+Anomalurus       -----------------------------------------------------------
+Jaculus          -----------------------------------------------------------
+Cavia            -----------------------------------------------------------
+PB1D10           -----------------------------------------------------------
+Castor           CCTAGCTTGTAGGTTATCAGCCAG-CAGACCTACGTCTCTCCTT-----AG-GAGC---
+Dipodomys        ACTCGGGTGGAGGATACTAACCAGATAGGCCTCCATCTTACCGT-----AG-GAGC---
+                                                                            
