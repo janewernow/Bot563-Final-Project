@@ -1,0 +1,5 @@
+library(ape)
+myTree <- read.tree(file="Marker_42657_aligned_formated.fasta.treefile")
+plot(myTree)
+myTree <- root(myTree, outgroup="Jaculus")
+plot(myTree)
