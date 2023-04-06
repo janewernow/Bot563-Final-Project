@@ -40,7 +40,7 @@ I downloaded both RaX-ML and iqtree, both can be run by typing their name in the
 Make sure you are in the directory of the file you want to make into a tree. Make sure the file is a fasta file. Run **iqtree** in the command line. Run command **iqtree -s NAME OF FILE -bb 1000 -nt AUTO** This command selects the file (-s Marker_42657_aligned_formated.fasta), specifies 1000 replicates for the ultrafast bootstrap (-bb 1000), and determines the best number of CPU cores to speed up the analysis (-nt AUTO). 
 This command will output a bunch of files. To view the tree, run **library(ape)** in R. Then run **myTree <- read.tree(file="NAME OF FILE")** and **plot(myTree)** to view the ML tree. To select an outgroup, **myTree <- root(myTree, outgroup="NAME OF OUTGROUP")** and **plot(myTree)**
 
-# Bayesian Method
+# Bayesian Inference
 ## Installing MrBayes 
 I downloaded Homebrew **/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"** in order to install MrBayes.
 To download and install MrBayes, I used the commands **brew tap brewsci/bio** and 
