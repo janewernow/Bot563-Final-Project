@@ -148,7 +148,7 @@ Anomalurus      ----------gctggccgtcacactcccacag--------------ccctccaccgccat
 PB1D10          ------------------------------------------------------------
 Castor          gt-gtttctttctctttctctg-----tgtgctgtattcatttttcatggcctccatgag
 Dipodomys       gt-ttccttctctctttctctg-----catgctatgtttatttttcatagcctccatgag
-Chaetodipus     atgtttccttctcttttctctg-----catgccctgtttatttttcatagcctccatgag
+Chaetodipus    
 Mus             g------------ctttcgcct-----caagctccgttaa-ttttcatggcctccatcag
 Rattus          g------------ctttcgcct-----caagctccgttaa-ttttcatggcctccatcag
 Apodemus        g------------ctttcgcct-----caagctccgttaa-ttttcatggcctccatcag

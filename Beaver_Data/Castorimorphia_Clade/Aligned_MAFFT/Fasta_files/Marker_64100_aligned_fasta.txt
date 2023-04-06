@@ -1,0 +1,7 @@
+>PB1D10
+------------------------------------------------------------------------------agccgggcgtggtggcgcacgcctgtaatcccagcactcgggaggctgaggcaggaggatcgtgagttcaaggccagcctgggctacatagcaagaccctgt ctcaaaaaaacaaaa----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+>Castor
+---aaaaaagtacttc-----ctgacattgctgagttgtgttgtgaaatttcctgatggtattagaagagctgttcctcactgggtatgctggcacatgcctgtaatgccaacactcagg aggcagaggcagtagggtcatgagtttcaggccagcctgcgctacatattgagacccatctcaaaaaaaacccaaaaacaaattagaaaagagctgttcctgggtaatctttgcagt----------------------------------------------------------------------------------ttaattaggaaataatctgggtgggacctg-ttgggctatgaacatgtgaaggagactgggagaccagttcctagcttgtaggttatcagccag-cagacc tacgtctctccttaggagc
+
+>Nannospalax
