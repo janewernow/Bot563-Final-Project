@@ -5,7 +5,7 @@ BEGIN TAXA;
 	TAXLABELS  PB1D10 Castor Dipodomys Chaetodipus Mus Rattus Apodemus Peromyscus Microtus Nannospalax Jaculus Ictidomys Cavia Anomalurus;
 END;
 
-BEGIN CHARACTERS;
+BEGIN data;
 	DIMENSIONS ntax=14 nchar=600;
 	FORMAT datatype=DNA gap=-;
 	MATRIX
@@ -24,7 +24,9 @@ BEGIN CHARACTERS;
 	Cavia	---tgagtttcctggc--------------------------------------------------------------------------------------------------------------ctggtgttgaccttg-------------------------------------------------acccgagagcat-gtccctgtgtgacctggctgtcttccaggtagagtggagta---tttccctgccctcagattctccagggtctcagtact-gtgtaatccagtcctgactgtataatccttgtccc---------------------ccgaggggagt-gctggggctgtgccccact-cctggatgacca-catccgagacacagtggcagcactgcgtggtcagatgtgtggcctggccagttcttggg-------------------------ctcca--ggcttgtcc----agctggtcattcacctgacaat---------------cctcctaccctggtgt-ttactcctctctgc-----------ttgctgtgttaattttttatggctttcatcag
 	Anomalurus	-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------cccgaggacat-gtccctgtgcgacctggctc--ttaagggcagagaaagaat--atattctcatcctcagatttcccacggtctcgagacc-ccaggg--------------------------------------------------------gtag---ctggctttgctgcagccc-ccaggctgaccaccatccacgagcccctgcctctgctaggtggtca------------------------------------------------------------------------gctggccgtcacactcccacag--------------ccctccaccgccatgt-ccctctctcctggc--ccg-----cgtgctgtgggaatttttcctggcctcc-----
 	;
-END;begin mrbayes;
+END;
+
+begin mrbayes;
  set autoclose=yes;
  prset brlenspr=unconstrained:exp(10.0);
  prset shapepr=exp(1.0);
