@@ -8,7 +8,7 @@ tgggattacaggcgtgcgccaccacgcccggct---------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
-------------------------------------------------------------
+--------------------------------------------------------------
 
 >Castor
 agagtttctgcctggcttgcagttgacctttctgaggacatgtccctgtatgacctgact
@@ -20,7 +20,7 @@ actatatattctgcccccgaccctgcccccccgcccaccaccatggactg---ttgggtt
 tcccccagacccccaggctaaccaccatccacacccctgtggccctgctgggtggtcagt
 tttctgatcaggccagtccctggggctccaagcttgcacagctggtgttccctc-agcct
 aggcc----agctggtcatcca-----------------------taccccacccgccac
-gt-gtttctttctctttctctg-----tgtgctgtattcatttttcatggcctccatgag
+gt-gtttctttctctttctctg-----tgtgctgtattcatttttcatggcctccatgagag
 
 >Dipodomys
 -ggatctcagctcagtctgcagctgacctttccaagggcatgtccctatgtgatctagct
@@ -32,7 +32,7 @@ actgtttaatctagctccc---------------------caaggggtcg---ttgaatt
 tattccaatccccccgggcga-----gccaacaactctttacccctgctgggtggtag--
 --------tggtctggctacttgggttccaagcttccttagctggtacccacttgggttc
 gggcc----agctggtcatctggctcccacg----------------cccctccctccac
-gt-ttccttctctctttctctg-----catgctatgtttatttttcatagcctccatgag
+gt-ttccttctctctttctctg-----catgctatgtttatttttcatagcctccatgagag
 
 >Chaetodipus
 ----------------------------------------------------------ag
@@ -44,7 +44,7 @@ actgttttatctagctccc---------------------caaggggtct---ttggatt
 tacccctgtctcccttggtgg-----ggtgaccagtcgttacccctgctgggtggtag--
 --------aggtctggctgcttgggctgcaagttcacatagctggcacccactctggtgc
 tggccagctagctagtcatcaggctsccgca----------------cccctccctccac
-atgtttccttctcttttctctg-----catgccctgtttatttttcatagcctccatgag
+atgtttccttctcttttctctg-----catgccctgtttatttttcatagcctccatgagag
 
 >Mus
 ---tgatttgtctagc--------------------------------------------
@@ -56,7 +56,7 @@ actgtgaagtctg-----------------------------------------------
 -gctccagcct-----gctgaccaccatccgtggtcctgtggccttgctgggttgcccat
 tgtctagccaggccagcccctcaggcctcaagctcaccctgtctgtgcccgctc--agcc
 tggcc----agctggccgtccaaccccagcc---------------cctcctgccaccgt
-g------------ctttcgcct-----caagctccgttaa-ttttcatggcctccatcag
+g------------ctttcgcct-----caagctccgttaa-ttttcatggcctccatcagag
 
 >Rattus
 ---tgatttgtctagc--------------------------------------------
@@ -68,7 +68,7 @@ actgtgaagcttggctccc----------------------caaggatga---ctagact
 ggctccagcct-----gctgaccaccatccgtgaccctgtggccttgttgggttgccagt
 cgtctgtccaggcaagcccctcaggcctcaagcttaccctgctggtgcccattc--agtc
 tggcc----agctggccagccagccccagcc---------------cctcctgccacagt
-g------------ctttcgcct-----caagctccgttaa-ttttcatggcctccatcag
+g------------ctttcgcct-----caagctccgttaa-ttttcatggcctccatcagag
 
 >Apodemus
 ---tgatttgtctagc--------------------------------------------
@@ -80,7 +80,7 @@ actgtgaagtctggctccc----------------------caaggat----------ct
 agcttcagcct-----gctgaccaccacccgtgaccctgtggccttgctgggttgccaat
 tgtctgaccaggccagcccctcaggcctcaaacgtgccctgctggggtccgctc--agcc
 tgg-c----agctggccgtccagccccagcc---------------cctcctgccacagt
-g------------ctttcgcct-----caagctccgttaa-ttttcatggcctccatcag
+g------------ctttcgcct-----caagctccgttaa-ttttcatggcctccatcagag
 
 >Peromyscus
 -tgatttctgtctagc--------------------------------------------
@@ -92,7 +92,7 @@ actgtgaagtctgactccc---------------------ttaagagtag---ctggact
 tgctccagcct-----gctgaccaccatccgtcaccctgtggccttgctgggttgccaat
 tgtctggccagaccagcccctcaggcctgaagcttgccctgctggtg-ccgctc--ggct
 tggcc----agctggctgtccagcccgagcc---------------cctcctgccacagt
-gt-ttacgtctctctttcgcct-----caagctctgttaatttttcatggcctccatcag
+gt-ttacgtctctctttcgcct-----caagctctgttaatttttcatggcctccatcagag
 
 >Microtus
 --tgactctgtctagc--------------------------------------------
@@ -104,7 +104,7 @@ actgggaactctgactccc----------------------taagggtag---ctggact
 tgcaccagcct-----tctgaccaccatccatgaccccgtggctttgctgg---------
 -------tcataccgacccctcaggcctcaagcttggcctgctggtg-ctgctc--agct
 tggcc----agctggccgtgcagccctggcc---------------tctcctgccacagt
-gt-tttcatctctctttagcct-----caagctctgttaatttttcatggcttccatcag
+gt-tttcatctctctttagcct-----caagctctgttaatttttcatggcttccatcagag
 
 >Nannospalax
 --tgtttctgcctggc--------------------------------------------
@@ -116,7 +116,7 @@ actgaaa--tctgtctccc----------------------cagggggtgtaaccaggtt
 tgctgcagcct-----gctgaccaccattcatgaccctgtggccctgctagatggcca--
 ---------aggccagcccctcctgcccgaagcttgccctgatggtgcccattc--agct
 tagcc----agctggccatacaaaacctccccccgccccctgccttcccctcaccacagt
-gt-ttccttctcttttcctct------ttcatggtgttaatttttcatggcctccatcag
+gt-ttccttctcttttcctct------ttcatggtgttaatttttcatggcctccatcagag
 
 >Jaculus
 -caattgctgcctggc--------------------------------------------
@@ -128,7 +128,7 @@ cctgtataatgtggctcct----------------------cagaggaaa---cggggtt
 tactccagcccacccagctgaccatcatccatgaccctgtggccttgctgggtgagatgt
 tgtgtggctgggccaacccctcgggctccaggcttgccttgctggtgcccactc--agct
 cggcc----agctggccatgcagccctcacc---------------cctcccgcggtcat
-gt-ttccttctctcttt-gcct-----tgcgctgtgttaatatttcatggcctccatcag
+gt-ttccttctctcttt-gcct-----tgcgctgtgttaatatttcatggcctccatcagag
 
 >Ictidomys
 cgagtttctgcctggt--------------------------------------------
@@ -140,7 +140,7 @@ attgtaa--cctagctcct----------------------ccaggggag---ttgagtt
 cactccagatc-ccaggctgacctccatcctgaaccctgtggccctgaggggtggtcagt
 tgtctggctgagccagtcctttgg-------------------------ctcca--gcct
 tgtcc----agctgatcctccagccctgacc----------------cctccgccccagt
-gt-ttccttctctctctcctctctgtgtgtgcagtgttaatttctcatggcctccatcag
+gt-ttccttctctctctcctctctgtgtgtgcagtgttaatttctcatggcctccatcagag
 
 >Cavia
 ---tgagtttcctggc--------------------------------------------
@@ -152,7 +152,7 @@ actgtataatccttgtccc---------------------ccgaggggagt-gctggggc
 tgtgccccact-cctggatgacca-catccgagacacagtggcagcactgcgtggtcaga
 tgtgtggcctggccagttcttggg-------------------------ctcca--ggct
 tgtcc----agctggtcattcacctgacaat---------------cctcctaccctggt
-gt-ttactcctctctgc-----------ttgctgtgttaattttttatggctttcatcag
+gt-ttactcctctctgc-----------ttgctgtgttaattttttatggctttcatcagag
 
 >Anomalurus
 ------------------------------------------------------------
@@ -164,4 +164,4 @@ gaat--atattctcatcctcagatttcccacggtctcgagacc-ccaggg----------
 tgctgcagccc-ccaggctgaccaccatccacgagcccctgcctctgctaggtggtca--
 ------------------------------------------------------------
 ----------gctggccgtcacactcccacag--------------ccctccaccgccat
-gt-ccctctctcctggc--ccg-----cgtgctgtgggaatttttcctggcctcc-----
+gt-ccctctctcctggc--ccg-----cgtgctgtgggaatttttcctggcctcc-------
