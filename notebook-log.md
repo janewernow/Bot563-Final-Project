@@ -64,4 +64,16 @@ First, combine the data set file and your customized MrBayes block in the termin
 Next, run MrBayes using the command **mb Marker_42657_aligned_nexus_mb.nex**
 If you run MrBayes without the dataset first, use the command **execute Marker_42657_aligned_nexus_mb.nex** and it will do the same thing. 
 
+# The Coalescent 
+## Installing Software
 
+### Astral
+First I had to Download java (https://www.java.com/en/)
+Then I downloaded the Astral zip file (https://github.com/smirarab/ASTRAL/raw/master/Astral.5.7.8.zip) and opened the zip file in my *Downloads* folder
+On the terminal, **cd Downloads/** 
+To test my installation, I used the command **java -jar astral.5.7.8.jar -i test_data/song_primates.424.gene.tre**. 
+The input gene trees are in the Newick format.
+Astral can be run from any directory using **java -jar /path/to/astral/astral.5.7.8.jar**
+To find the species tree given a set of gene trees in a file called in.tree, use: **java -jar astral.5.7.8.jar -i in.tree**
+The results will be outputted to the standard output. To save the results in a file use the -o option (Strongly recommended): **java -jar astral.5.7.8.jar -i in.tree -o out.tre**
+To save the logs (also recommended), run: **java -jar astral.5.7.8.jar -i in.tree -o out.tre 2>out.log**
