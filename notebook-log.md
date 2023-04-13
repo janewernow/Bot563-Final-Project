@@ -3,24 +3,33 @@ I found my data set from a paper titled "The Beavers Phylogenetic Lineage Illumi
 This data helped researchers conclude that beavers (Castoridae) are more closely related to Kangaroo rats (Geomyoidea) within a mouse-related clade than squirrels (suborder Sciuromorpha) which were previously thought to be their closest phylogenetic relatives. 
 I believe this data set has been through the QC steps; I have not personally made any alterations to the data set from the paper.
 https://static-content.springer.com/esm/art%3A10.1038%2Fsrep43562/MediaObjects/41598_2017_BFsrep43562_MOESM37_ESM.pdf
+Data set original files are stored in *Bot563-Final-Project* in *Beaver_Data* in *Castorimorphia_Clade* in *Marker_Original*
 
 # Multiple Sequence Alignments
 ## Installing programs: ClustalW and MAFFT
-I downloaded miniconda in order to download ClustalW to my mac. I also downloaded MAFFT. Both programs run in the terminal by just typing their name in the command line. Make sure to cd into the folder where the data you want to run is stored before starting the program. 
+I downloaded miniconda (https://docs.conda.io/en/latest/miniconda.html) in order to download ClustalW to my mac **conda install -c bioconda clustalw**.
+ I also downloaded MAFFT (https://mafft.cbrc.jp/alignment/software/). Both programs run in the terminal by just typing their name in the command line. Make sure to cd into the folder where the data you want to run is stored before starting the program. 
 
 ## Formatting Data for Alignment
-I pasted the data set for each gene marker into a visual studio code (any text editor will do but this worked the best for me) and saved each one as a text file. I put it in my Bot563-Final-Project folder in the Beaver_Data folder. All data files MUST be saved as a .txt. Make sure to delete any unwanted page numbers or headings from the data that may accidentally get copied into the data when pasting into a text editor.
+I pasted the data set for each gene marker into a visual studio code (any text editor will do) and saved each one as a text file. It is in *Bot563-Final-Project* in *Beaver_Data* in *Castorimorphia_Clade* in *Marker_txt_files*. All data files MUST be saved as a .txt. Make sure to delete any unwanted page numbers or headings from the data that may accidentally get copied into the data when pasting into a text editor.
 
 ## Aligning 
 ### Aligning Data with ClutalW
-Make sure you are in the directory of the files you want to align. Run clustalw on the terminal and select 1 to inpust sequence data. Then select 2 to run a multiple sequence alignment of the inputted data.
+Make sure you are in the directory of the files you want to align. Run **clustalw** on the terminal and select 1 to inpust sequence data ((Marker_42657.txt)). Then select 2 to run a multiple sequence alignment of the inputted data. Name the output file (Marker_42657_aligned_clustalw.txt) The output will be in phyllip format.
+Aligned output data can be found in *Bot563-Final-Project* in *Beaver_Data* in *Castorimorphia_Clade* in *Aligned_ClustalW* in *Phyllip_files_clustalw*
 
 ### Aligning Data With MAFFT
-Make sure you are in the directory of the files you want to align. Run MAFFT on the terminal. Input the file you want to sequence. Name the output file. Select 1 for clustal format. Select 1 again for "auto" as the strategy. Leave blank for additonal arguments and run for the multiple sequence alignment of the inputted data.
+Make sure you are in the directory of the files you want to align. Run **mafft** on the terminal. Input the file you want to sequence (Marker_42657.txt). Name the output file (Marker_42657_aligned.txt). Select 1 for clustal format. Select 1 again for "auto" as the strategy. Leave blank for additonal arguments and run for the multiple sequence alignment of the inputted data. The output will be in phyllip format.
+Aligned output data can be found in *Bot563-Final-Project* in *Beaver_Data* in *Castorimorphia_Clade* in *Aligned_MAFFT* in *Phyllip_files_mafft*
+
+# Converting Phyllip Files to Other Formats
+I used a format converter (http://phylogeny.lirmm.fr/phylo_cgi/data_converter.cgi) to convert my aligned phyllip files to both Fasta and Nexus files. 
+Aligned mafft fasta files are in *Bot563-Final-Project* in *Beaver_Data* in *Castorimorphia_Clade* in *Aligned_MAFFT* in *Fasta_files_mafft*
+Aligned mafft nexus files are in *Bot563-Final-Project* in *Beaver_Data* in *Castorimorphia_Clade* in *Aligned_MAFFT* in *Nexus_files_mafft*
 
 # Distance and Parsimony
 ## Installing R Studio + packages
-I downloaded R studio and R. Then in R Studio I installed the necessary packages with **install.packages("adegenet", dep=TRUE)**
+I downloaded R studio and R (https://posit.co/download/rstudio-desktop/). Then in R Studio I installed the necessary packages with **install.packages("adegenet", dep=TRUE)**
 **install.packages("phangorn", dep=TRUE)**. Then I loaded the packages using **library(ape)**, **library(adegenet)**, **library(phangorn)**.
 
 ## Creating a tree on R
