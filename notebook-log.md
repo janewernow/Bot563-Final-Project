@@ -48,6 +48,9 @@ I downloaded both RaX-ML and iqtree, both can be run by typing their name in the
 ## Creating a Maximum Liklihood tree with iqtree
 Make sure you are in the directory of the file you want to make into a tree. Make sure the file is a fasta file. Run **iqtree** in the command line. Run command **iqtree -s Marker_42657_aligned_fasta.txt -bb 1000 -nt AUTO** This command selects the file (-s Marker_42657_aligned_formated.fasta), specifies 1000 replicates for the ultrafast bootstrap (-bb 1000), and determines the best number of CPU cores to speed up the analysis (-nt AUTO). 
 This command will output a bunch of files. To view the tree, run **library(ape)** in R. Then run **myTree <- read.tree(file="Marker_42657_aligned_formated.fasta.iqtree")** and **plot(myTree)** to view the ML tree. To select an outgroup, **myTree <- root(myTree, outgroup="PB1D10")** and **plot(myTree)**
+#### Reasoning
+
+
 
 # Bayesian Inference
 ## Installing MrBayes 
@@ -63,6 +66,8 @@ Make sure you are in the directory of the nexus file you want to run in MrBayes.
 First, combine the data set file and your customized MrBayes block in the terminal using **cat Marker_42657_aligned_nexus.nex MrBayes_block.txt > Marker_42657_aligned_nexus_mb.nex**
 Next, run MrBayes using the command **mb Marker_42657_aligned_nexus_mb.nex**
 If you run MrBayes without the dataset first, use the command **execute Marker_42657_aligned_nexus_mb.nex** and it will do the same thing. 
+##### Reasoning
+I chose to use MrBayes because it implements a Bayesian approach to phylogenetics, which is a powerful and flexible framework for inference that can incorporate a wide range of models and priors. It is relatively fast compared to other methods of Bayesian inference due to its use of MCMC algorithms. MrBayes can be computationally expensive for large data sets. The results are also extremely influenced by the priors, complexity of the model, and amount of data in the dataset. Therefore it is very important to run multiple MCMC chains with the priors to ensure good mixing and convergence of chains. 
 
 # The Coalescent 
 ## Installing Software
@@ -77,3 +82,6 @@ Astral can be run from any directory using **java -jar /path/to/astral/astral.5.
 To find the species tree given a set of gene trees in a file called in.tree, use: **java -jar astral.5.7.8.jar -i in.tree**
 The results will be outputted to the standard output. To save the results in a file use the -o option (Strongly recommended): **java -jar astral.5.7.8.jar -i in.tree -o out.tre**
 To save the logs (also recommended), run: **java -jar astral.5.7.8.jar -i in.tree -o out.tre 2>out.log**
+##### Reasoning
+I used the toy data set for this because I didn't finish creating my gene trees in MrBayes.
+I prefer ASTRAL because it is shown to be very accurate and efficient, especially with large data sets with many genes. It can use information from multiple loci to help resolve conflicts among gene trees to make a more accurate species tree. However, ASTRAL assumes that all gene trees are completely resolved and assumes that the gene trees developed independently without any influence from horizontal gene transfer. While it is useful for large datasets, it can be very computationally expensive but it may not be as accurate for small data sets. 
