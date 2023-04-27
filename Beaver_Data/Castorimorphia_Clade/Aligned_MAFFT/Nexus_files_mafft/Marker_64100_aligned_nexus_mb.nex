@@ -1,0 +1,38 @@
+#NEXUS
+
+BEGIN TAXA;
+	DIMENSIONS ntax=13;
+	TAXLABELS  PB1D10 Castor Nannospalax Anomalurus Cavia Jaculus Ictidomys Mus Apodemus Rattus Peromyscus Microtus Dipodomys;
+END;
+
+BEGIN CHARACTERS;
+	DIMENSIONS nchar=439;
+	FORMAT datatype=DNA gap=-;
+	MATRIX
+	PB1D10	------------------------------------------------------------------------------agccgggcgtggtggcgcacgcctgtaatcccagcactcgggaggctgaggcaggaggatcgtgagttcaaggccagcctgggctacatagcaagaccctgtctcaaaaaaacaaaa----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	Castor	---aaaaaagtacttc-----ctgacattgctgagttgtgttgtgaaatttcctgatggtattagaagagctgttcctcactgggtatgctggcacatgcctgtaatgccaacactcaggaggcagaggcagtagggtcatgagtttcaggccagcctgcgctacatattgagacccatctcaaaaaaaacccaaaaacaaattagaaaagagctgttcctgggtaatctttgcagt----------------------------------------------------------------------------------ttaattaggaaataatctgggtgggacctg-ttgggctatgaacatgtgaaggagactgggagaccagttcctagcttgtaggttatcagccag-cagacctacgtctctccttaggagc
+	Nannospalax	--aaactgaagaaacc-----ctgacattgctgggttgcactgtaaagtttcccagt-----------------------------------------------------------------------------------------------------------------------------------------------gattttagaagagctgccctttggtaatctccatagc----------------------------------------------------------------------------------ttaattaggaaataatctagatgggacctgttgggcttttgaaaccaggaggaggactgggaaactggatcacagcatggaaggtaccaaccagacccacctgtgtcccaccttaggagc
+	Anomalurus	----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------tgttccttggtaatctgtgtagc----------------------------------------------------------------------------------ttaattaggggacaatctggatggaatctg-taggtctttaaaaaggtgagggagactgggagacctggtcacagtgtgaaaggtaccaatcagacagaacttcatgccacctcaggagc
+	Cavia	------aaaacagttc-----ctgatactgctgggttggattgtgagattatcctgt-----------------------------------------------------------------------------------------------------------------------------------------------ggtttcagaagacctggccctcggtgatattggcagc----------------------------------------------------------------------------------ttcattaagggataatgtagataggacctt-tggggctttaaaaatgtgagggagacccggggcctggatcacagcagggcgggcagcagccagacagccctgcattcttccccaggagc
+	Jaculus	----aaaaatctcttc----------cttacatggctacattatgaaatttcccagt-----------------------------------------------------------------------------------------------------------------------------------------------ggttttagaagagctatc-cttggtcatctctgcagc----------------------------------------------------------------------------------ttaaatagg-gataatctggatgggaccaa-ttgggctttgaaaatgagagggagactgggagtctgggtcaca---------gatcctgccagaaagacttgcatcctgcctcaggagc
+	Ictidomys	--aaaaacaataattcctgggtttattttgctggattgcattgtgagggttcctggt-----------------------------------------------------------------------------------------------------------------------------------------------ggttttaggagagctatcacttggtaatcttggcagt----------------------------------------------------------------------------------ttaattaagggataatat-----gcacctg-ttgaccttcaaaagtgagagggagcctgggagaacag-tcgcagtatagagagtaccaaccaaacagacctatctctcgtctcaggaac
+	Mus	-------aaaccgtcc-----ctgacatcactgggttttagcata-----------------------------------------------------------------------------------------------------------------------------------------------------------gtttttggacgagctgccccttggtgatctttatagc----------------------------------------------------------------------------------atagttaaggaaaaatggggttgagaccta-----------------cgagggaggctaggagatagacgc----------gagtaccaaccagactgactgacattccacctcaggaac
+	Apodemus	-------------------------------tggattttatcatg-----------------------------------------------------------------------------------------------------------------------------------------------------------gtttttggaagagctgcccctcggtgatttttatagc----------------------------------------------------------------------------------ttagttaagggaaaatggggttgagaactg-----------------agagggagactaggaagtagactg----------gactaccaaccagactgacttccatcccacctcaggagc
+	Rattus	-------aaattgccc-----ctgacatcactgggttttgtcatg-----------------------------------------------------------------------------------------------------------------------------------------------------------gtttttggaagaactgccccttggtgatctttataac----------------------------------------------------------------------------------ttagttaaggaacaatgagg-tgagacctg-----------------agagggagactaggagatagactc----------gagccccaacca----gactttcattctgcttcaggagc
+	Peromyscus	----aagaaaccctcc-----ctgacctcactggg-tttgttgtg-------------------------------------------------------------------------------------------------------------------------------------------------------------gtttggaagagctgccccttggtaatccttgcagc----------------------------------------------------------------------------------ttagttagg---------------gacccg-----------------agagggagactgggagatgggctcacagcatggagggtaccaacgagaatgcccttcattcc-tctcaggagc
+	Microtus	---aaaaaaaaccttc-----ctgacctcactggg-tttgttgtg------------------------------------------------------------------------------------------------------------------------------------------------------------gttttggaagagctgcccctaggtaatctttgcggc----------------------------------------------------------------------------------ttagttagggaacaagcgggatgagaccca-----------------agagggagactgggaggtgggctcacagcacagagggtaccaatgagaacgaccttcatcccgcctcaggagc
+	Dipodomys	aaaaaaaaatcacttc-----ctgacattgctggg-tgcattgtgacatttcccggt-----------------------------------------------------------------------------------------------------------------------------------------------ggttttggaagagctgttgcttgctatgggtggtggcacttgctagtcatcctagaatttaggagcaccatgagttccatccagagaccctgctgacacaaaagccaaaaccagaagagttgttcctagggatatctggttgggacctg-ttgggctttaaaaatacaaagtagattaagaggcccggtactcgggtggaggatactaaccagataggcctccatcttaccgtaggagc
+	;
+END;
+begin mrbayes;
+ set autoclose=yes;
+ prset brlenspr=unconstrained:exp(10.0);
+ prset shapepr=exp(1.0);
+ prset tratiopr=beta(1.0,1.0);
+ prset statefreqpr=dirichlet(1.0,1.0,1.0,1.0);
+ lset nst=2 rates=gamma ngammacat=4;
+ mcmcp ngen=100000 samplefreq=10 printfreq=100 nruns=1 nchains=3 savebrlens=yes;
+ outgroup cavia;
+ mcmc;
+ sumt;
+end;

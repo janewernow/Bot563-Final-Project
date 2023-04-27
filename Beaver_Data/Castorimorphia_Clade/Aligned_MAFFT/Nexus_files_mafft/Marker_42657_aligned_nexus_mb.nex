@@ -5,8 +5,8 @@ BEGIN TAXA;
 	TAXLABELS  PB1D10 Castor Dipodomys Chaetodipus Mus Rattus Apodemus Peromyscus Microtus Nannospalax Jaculus Ictidomys Cavia Anomalurus;
 END;
 
-BEGIN data;
-	DIMENSIONS ntax=14 nchar=600;
+BEGIN CHARACTERS;
+	DIMENSIONS nchar=600;
 	FORMAT datatype=DNA gap=-;
 	MATRIX
 	PB1D10	---------------------------------------------------------------------------------------ttttgtttttttgagacagggtc----ttgctatgt-agcccaggctggccttgaactcacgatcctcct----gcctcagcctcccgagtgctgggattacaggcgtgcgccaccacgcccggct---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -24,17 +24,15 @@ BEGIN data;
 	Cavia	---tgagtttcctggc--------------------------------------------------------------------------------------------------------------ctggtgttgaccttg-------------------------------------------------acccgagagcat-gtccctgtgtgacctggctgtcttccaggtagagtggagta---tttccctgccctcagattctccagggtctcagtact-gtgtaatccagtcctgactgtataatccttgtccc---------------------ccgaggggagt-gctggggctgtgccccact-cctggatgacca-catccgagacacagtggcagcactgcgtggtcagatgtgtggcctggccagttcttggg-------------------------ctcca--ggcttgtcc----agctggtcattcacctgacaat---------------cctcctaccctggtgt-ttactcctctctgc-----------ttgctgtgttaattttttatggctttcatcag
 	Anomalurus	-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------cccgaggacat-gtccctgtgcgacctggctc--ttaagggcagagaaagaat--atattctcatcctcagatttcccacggtctcgagacc-ccaggg--------------------------------------------------------gtag---ctggctttgctgcagccc-ccaggctgaccaccatccacgagcccctgcctctgctaggtggtca------------------------------------------------------------------------gctggccgtcacactcccacag--------------ccctccaccgccatgt-ccctctctcctggc--ccg-----cgtgctgtgggaatttttcctggcctcc-----
 	;
-END;
-
-begin mrbayes;
+END;begin mrbayes;
  set autoclose=yes;
  prset brlenspr=unconstrained:exp(10.0);
  prset shapepr=exp(1.0);
  prset tratiopr=beta(1.0,1.0);
  prset statefreqpr=dirichlet(1.0,1.0,1.0,1.0);
  lset nst=2 rates=gamma ngammacat=4;
- mcmcp ngen=10000 samplefreq=10 printfreq=100 nruns=1 nchains=3 savebrlens=yes;
- outgroup PB1D10;
+ mcmcp ngen=100000 samplefreq=10 printfreq=100 nruns=1 nchains=3 savebrlens=yes;
+ outgroup cavia;
  mcmc;
  sumt;
 end;

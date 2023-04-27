@@ -1,0 +1,38 @@
+#NEXUS
+[ID: 8159067933]
+begin taxa;
+	dimensions ntax=13;
+	taxlabels
+		PB1D10
+		Castor
+		Nannospalax
+		Anomalurus
+		Cavia
+		Jaculus
+		Ictidomys
+		Mus
+		Apodemus
+		Rattus
+		Peromyscus
+		Microtus
+		Dipodomys
+		;
+end;
+begin trees;
+	translate
+		1	PB1D10,
+		2	Castor,
+		3	Nannospalax,
+		4	Anomalurus,
+		5	Cavia,
+		6	Jaculus,
+		7	Ictidomys,
+		8	Mus,
+		9	Apodemus,
+		10	Rattus,
+		11	Peromyscus,
+		12	Microtus,
+		13	Dipodomys
+		;
+   tree con_50_majrule = [&U] (5[&prob=1.00000000e+00,prob(percent)="100"]:2.177511e-01[&length_mean=2.20419125e-01,length_median=2.17751100e-01,length_95%HPD={1.37663300e-01,3.10931400e-01}],1[&prob=1.00000000e+00,prob(percent)="100"]:4.552316e-02[&length_mean=6.05709240e-02,length_median=4.55231600e-02,length_95%HPD={1.01926800e-04,1.69704400e-01}],2[&prob=1.00000000e+00,prob(percent)="100"]:1.796163e-01[&length_mean=1.82837612e-01,length_median=1.79616300e-01,length_95%HPD={1.17772100e-01,2.66219000e-01}],3[&prob=1.00000000e+00,prob(percent)="100"]:2.025294e-01[&length_mean=2.02879384e-01,length_median=2.02529400e-01,length_95%HPD={1.17308000e-01,3.10823900e-01}],4[&prob=1.00000000e+00,prob(percent)="100"]:1.324852e-01[&length_mean=1.33771572e-01,length_median=1.32485200e-01,length_95%HPD={4.08003100e-02,2.25624900e-01}],6[&prob=1.00000000e+00,prob(percent)="100"]:1.489782e-01[&length_mean=1.47938060e-01,length_median=1.48978200e-01,length_95%HPD={6.16169200e-02,2.42863100e-01}],7[&prob=1.00000000e+00,prob(percent)="100"]:2.154990e-01[&length_mean=2.12332102e-01,length_median=2.15499000e-01,length_95%HPD={6.96032700e-02,3.38220500e-01}],13[&prob=1.00000000e+00,prob(percent)="100"]:2.759282e-01[&length_mean=2.66692128e-01,length_median=2.75928200e-01,length_95%HPD={6.56605700e-02,4.10094200e-01}],(((8[&prob=1.00000000e+00,prob(percent)="100"]:8.417111e-02[&length_mean=8.71268242e-02,length_median=8.41711100e-02,length_95%HPD={3.99774300e-02,1.43849400e-01}],9[&prob=1.00000000e+00,prob(percent)="100"]:8.347081e-02[&length_mean=8.58795376e-02,length_median=8.34708100e-02,length_95%HPD={3.63436700e-02,1.38140800e-01}])[&prob=6.65911212e-01,prob(percent)="67"]:1.725594e-02[&length_mean=2.10947059e-02,length_median=1.72559400e-02,length_95%HPD={2.51685500e-04,5.26862100e-02}],10[&prob=1.00000000e+00,prob(percent)="100"]:7.849243e-02[&length_mean=8.08167633e-02,length_median=7.84924300e-02,length_95%HPD={3.16002700e-02,1.30453300e-01}])[&prob=9.93200907e-01,prob(percent)="99"]:1.163043e-01[&length_mean=1.19780753e-01,length_median=1.16304300e-01,length_95%HPD={5.33696500e-02,1.81475700e-01}],(11[&prob=1.00000000e+00,prob(percent)="100"]:4.120147e-02[&length_mean=4.36748588e-02,length_median=4.12014700e-02,length_95%HPD={1.28581100e-02,8.59202500e-02}],12[&prob=1.00000000e+00,prob(percent)="100"]:7.233597e-02[&length_mean=7.49618426e-02,length_median=7.23359700e-02,length_95%HPD={2.79521000e-02,1.24474200e-01}])[&prob=9.37475003e-01,prob(percent)="94"]:3.905322e-02[&length_mean=4.15116815e-02,length_median=3.90532200e-02,length_95%HPD={4.98355600e-03,8.27220700e-02}])[&prob=9.34675377e-01,prob(percent)="93"]:1.096107e-01[&length_mean=1.11179511e-01,length_median=1.09610700e-01,length_95%HPD={4.12027200e-02,1.86366700e-01}]);
+end;
