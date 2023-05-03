@@ -53,7 +53,7 @@ Alternatively, to view the tree you can use the command **tre <- read.tree(text=
 
 
 #### Reasoning
-I chose to use IQtree because of its fast and efficient computing abilities. It supports a wide range of models for molecular evolution, including nucleotide, amino acid, codon, and morphological models. It allows you to set specific parameters like substitution models and branch lengths. It is important to note that with sparse data, IQtree may not always converge to the correct tree.
+I chose to use IQtree because of its fast and efficient computing abilities. It supports a wide range of models for molecular evolution, including nucleotide, amino acid, codon, and morphological models. It allows you to set specific parameters like substitution models and branch lengths. It is important to note that with sparse data, IQtree may not always converge to the correct tree! 
 
 
 
@@ -90,3 +90,4 @@ To save the logs (also recommended), run: **java -jar astral.5.7.8.jar -i in.tre
 ##### Reasoning
 I used the toy data set for this because I didn't finish creating my gene trees in MrBayes.
 I prefer ASTRAL because it is shown to be very accurate and efficient, especially with large data sets with many genes. It can use information from multiple loci to help resolve conflicts among gene trees to make a more accurate species tree. However, ASTRAL assumes that all gene trees are completely resolved and assumes that the gene trees developed independently without any influence from horizontal gene transfer. While it is useful for large datasets, it can be very computationally expensive but it may not be as accurate for small data sets. 
+
