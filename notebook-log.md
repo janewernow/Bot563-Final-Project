@@ -71,6 +71,9 @@ Make sure you are in the directory of the nexus file you want to run in MrBayes.
 First, combine the data set file and your customized MrBayes block in the terminal using **cat Marker_42657_aligned_nexus.nex MrBayes_block.txt > Marker_42657_aligned_nexus_mb.nex**
 Next, run MrBayes using the command **mb Marker_42657_aligned_nexus_mb.nex**
 If you run MrBayes without the dataset first, use the command **execute Marker_42657_aligned_nexus_mb.nex** and it will do the same thing. 
+
+To view the tree, run **library(ape)** in R. Then run **tre <- read.nexus(file="Marker_42657_aligned_nexus_mb.nex.con.tre", tree.names = NULL, force.multi = FALSE)** and **plot(tre)** to view the consensus tree. 
+
 ##### Reasoning
 I chose to use MrBayes because it implements a Bayesian approach to phylogenetics, which is a powerful and flexible framework for inference that can incorporate a wide range of models and priors. It is relatively fast compared to other methods of Bayesian inference due to its use of MCMC algorithms. MrBayes can be computationally expensive for large data sets. The results are also extremely influenced by the priors, complexity of the model, and amount of data in the dataset. Therefore it is very important to run multiple MCMC chains with the priors to ensure good mixing and convergence of chains. 
 
