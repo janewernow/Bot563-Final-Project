@@ -29,8 +29,8 @@ Aligned mafft nexus files are in *Bot563-Final-Project* in *Beaver_Data* in *Cas
 
 
 # Maximum Liklihood
-## Installing Programs: RaX-ML and iqtree
-I downloaded both RaX-ML and iqtree, both can be run by typing their name in the command line of the terminal. 
+## Installing Programs: iqtree
+I downloaded iqtree from (http://www.iqtree.org/). The software can be run by typing **iqtree**  in the command line of the terminal. 
 
 ## Creating a Maximum Liklihood tree with iqtree
 Make sure you are in the directory of the file you want to make into a tree. Make sure the file is a fasta file. Run **iqtree** in the command line. Run command **iqtree -s Marker_42657_aligned_fasta.txt -bb 1000 -nt AUTO** This command selects the file (-s Marker_42657_aligned_formated.fasta), specifies 1000 replicates for the ultrafast bootstrap (-bb 1000), and determines the best number of CPU cores to speed up the analysis (-nt AUTO). 
