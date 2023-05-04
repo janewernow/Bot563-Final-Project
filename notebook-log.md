@@ -15,7 +15,7 @@ I pasted the data set for each gene marker into a visual studio code (any text e
 
 ## Aligning 
 ### Aligning Data with ClutalW
-Make sure you are in the directory of the files you want to align. Run **clustalw** on the terminal and select 1 to inpust sequence data (Marker_42657.txt). Then select 2 to run a multiple sequence alignment of the inputted data. Name the output file (Marker_42657_aligned_clustalw.txt) The output will be in phyllip format.
+Make sure you are in the directory of the files you want to align. Run **clustalw** on the terminal and select 1 to inpust sequence data (Marker_42657.txt). Then select 2 to run a multiple sequence alignment of the inputted data. Select 1 to Do complete multiple alignment now Slow/Accurate. Name the output file (Marker_42657_aligned_clustalw.txt) The output will be in phyllip format.
 Aligned output data can be found in *Bot563-Final-Project* in *Beaver_Data* in *Castorimorphia_Clade* in *Aligned_ClustalW* in *Phyllip_files_clustalw*
 
 ### Aligning Data With MAFFT
