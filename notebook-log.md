@@ -27,19 +27,6 @@ I used a format converter (http://phylogeny.lirmm.fr/phylo_cgi/data_converter.cg
 Aligned mafft fasta files are in *Bot563-Final-Project* in *Beaver_Data* in *Castorimorphia_Clade* in *Aligned_MAFFT* in *Fasta_files_mafft*
 Aligned mafft nexus files are in *Bot563-Final-Project* in *Beaver_Data* in *Castorimorphia_Clade* in *Aligned_MAFFT* in *Nexus_files_mafft*
 
-# Distance and Parsimony
-## Installing R Studio + packages
-I downloaded R studio and R (https://posit.co/download/rstudio-desktop/). Then in R Studio I installed the necessary packages with **install.packages("adegenet", dep=TRUE)**
-**install.packages("phangorn", dep=TRUE)**. Then I loaded the packages using **library(ape)**, **library(adegenet)**, **library(phangorn)**.
-
-## Creating a tree on R
-Make sure data file is in FASTA format.  **dna <- fasta2DNAbin(file="Marker_42657.txt")**
-Computing the genetic distances: here we use the Tamura and Nei 1993 model which allows for different rates of transitions and transversions, heterogeneous base frequencies, and between-site variation of the substitution rate **D <- dist.dna(dna, model="TN93")**
-Get the NJ tree **tre <- nj(D)**
-We use the ladderize function before plotting which reorganizes the internal structure of the tree to get the ladderized effect when plotted **tre <- ladderize(tre)**
-Plot the tree 
-**plot(tre, cex=.6)**
-**title("A simple NJ tree")** 
 
 # Maximum Liklihood
 ## Installing Programs: RaX-ML and iqtree
@@ -77,20 +64,4 @@ To view the tree, run **library(ape)** in R. Then run **tre <- read.nexus(file="
 ##### Reasoning
 I chose to use MrBayes because it implements a Bayesian approach to phylogenetics, which is a powerful and flexible framework for inference that can incorporate a wide range of models and priors. It is relatively fast compared to other methods of Bayesian inference due to its use of MCMC algorithms. MrBayes can be computationally expensive for large data sets. The results are also extremely influenced by the priors, complexity of the model, and amount of data in the dataset. Therefore it is very important to run multiple MCMC chains with the priors to ensure good mixing and convergence of chains. 
 
-# The Coalescent 
-## Installing Software
-
-### Astral
-First I had to Download java (https://www.java.com/en/)
-Then I downloaded the Astral zip file (https://github.com/smirarab/ASTRAL/raw/master/Astral.5.7.8.zip) and opened the zip file in my *Downloads* folder
-On the terminal, **cd Downloads/** 
-To test my installation, I used the command **java -jar astral.5.7.8.jar -i test_data/song_primates.424.gene.tre**. 
-The input gene trees are in the Newick format.
-Astral can be run from any directory using **java -jar /path/to/astral/astral.5.7.8.jar**
-To find the species tree given a set of gene trees in a file called in.tree, use: **java -jar astral.5.7.8.jar -i in.tree**
-The results will be outputted to the standard output. To save the results in a file use the -o option (Strongly recommended): **java -jar astral.5.7.8.jar -i in.tree -o out.tre**
-To save the logs (also recommended), run: **java -jar astral.5.7.8.jar -i in.tree -o out.tre 2>out.log**
-##### Reasoning
-I used the toy data set for this because I didn't finish creating my gene trees in MrBayes.
-I prefer ASTRAL because it is shown to be very accurate and efficient, especially with large data sets with many genes. It can use information from multiple loci to help resolve conflicts among gene trees to make a more accurate species tree. However, ASTRAL assumes that all gene trees are completely resolved and assumes that the gene trees developed independently without any influence from horizontal gene transfer. While it is useful for large datasets, it can be very computationally expensive but it may not be as accurate for small data sets. 
 
